@@ -1,0 +1,6 @@
+name : 정하우
+age : 34
+e-mail : s3ox22u9@bhban.com
+division : g2b
+telephone : 010-8734-7187
+sex : female

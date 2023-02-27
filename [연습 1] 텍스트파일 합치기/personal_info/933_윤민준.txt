@@ -1,0 +1,6 @@
+name : 윤민준
+age : 95
+e-mail : sofs5r8u@bhban.com
+division : w25
+telephone : 010-0195-7901
+sex : male

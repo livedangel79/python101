@@ -1,0 +1,6 @@
+name : 임서진
+age : 75
+e-mail : tat3ecxk@bhban.com
+division : 3p0
+telephone : 010-5275-0852
+sex : female

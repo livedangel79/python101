@@ -1,0 +1,6 @@
+name : 정지연
+age : 17
+e-mail : vdcq0l22@bhban.com
+division : 5p3
+telephone : 010-1217-7512
+sex : male

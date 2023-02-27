@@ -1,0 +1,6 @@
+name : 장서우
+age : 04
+e-mail : nnxzpzn1@bhban.com
+division : pme
+telephone : 010-6804-6668
+sex : female

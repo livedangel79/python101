@@ -1,0 +1,6 @@
+name : 윤예아
+age : 91
+e-mail : i0g0d6f0@bhban.com
+division : liq
+telephone : 010-1691-5516
+sex : male

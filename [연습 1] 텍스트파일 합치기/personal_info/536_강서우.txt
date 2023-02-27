@@ -1,0 +1,6 @@
+name : 강서우
+age : 44
+e-mail : c78o75f0@bhban.com
+division : q4u
+telephone : 010-1544-7615
+sex : female

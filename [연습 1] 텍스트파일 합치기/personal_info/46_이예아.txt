@@ -1,0 +1,6 @@
+name : 이예아
+age : 92
+e-mail : x6st46cc@bhban.com
+division : 9gg
+telephone : 010-9192-3191
+sex : female

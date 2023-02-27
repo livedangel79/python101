@@ -1,0 +1,6 @@
+name : 정윤서
+age : 12
+e-mail : zkyopswo@bhban.com
+division : al8
+telephone : 010-7912-0679
+sex : male

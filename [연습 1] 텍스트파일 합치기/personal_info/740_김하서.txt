@@ -1,0 +1,6 @@
+name : 김하서
+age : 41
+e-mail : n2024p9l@bhban.com
+division : vef
+telephone : 010-2641-7326
+sex : male

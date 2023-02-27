@@ -1,0 +1,6 @@
+name : 최지윤
+age : 34
+e-mail : zhql7zob@bhban.com
+division : 0ba
+telephone : 010-2934-3329
+sex : female

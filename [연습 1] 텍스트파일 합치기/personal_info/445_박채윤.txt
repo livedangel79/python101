@@ -1,0 +1,6 @@
+name : 박채윤
+age : 82
+e-mail : w8lfutu1@bhban.com
+division : wq7
+telephone : 010-1282-6512
+sex : male

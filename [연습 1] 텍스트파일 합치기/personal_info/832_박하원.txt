@@ -1,0 +1,6 @@
+name : 박하원
+age : 19
+e-mail : iqils7m7@bhban.com
+division : pui
+telephone : 010-3119-6331
+sex : male

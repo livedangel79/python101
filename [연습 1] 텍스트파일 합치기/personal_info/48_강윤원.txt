@@ -1,0 +1,6 @@
+name : 강윤원
+age : 18
+e-mail : 70nwyzbf@bhban.com
+division : yyg
+telephone : 010-2918-5329
+sex : female

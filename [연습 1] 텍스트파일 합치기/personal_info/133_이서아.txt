@@ -1,0 +1,6 @@
+name : 이서아
+age : 64
+e-mail : z1kx05l8@bhban.com
+division : tic
+telephone : 010-6964-6069
+sex : male

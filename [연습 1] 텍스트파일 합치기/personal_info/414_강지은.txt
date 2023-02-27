@@ -1,0 +1,6 @@
+name : 강지은
+age : 91
+e-mail : abeyn7r3@bhban.com
+division : trz
+telephone : 010-1291-6412
+sex : male

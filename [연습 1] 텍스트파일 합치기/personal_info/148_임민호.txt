@@ -1,0 +1,6 @@
+name : 임민호
+age : 68
+e-mail : ffiln5mr@bhban.com
+division : 9q8
+telephone : 010-6868-6468
+sex : female

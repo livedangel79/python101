@@ -1,0 +1,6 @@
+name : 임주준
+age : 73
+e-mail : frb49z1z@bhban.com
+division : v6p
+telephone : 010-5273-6552
+sex : female

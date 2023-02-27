@@ -1,0 +1,6 @@
+name : 정예원
+age : 28
+e-mail : wsthpwgi@bhban.com
+division : 0fw
+telephone : 010-.628-86.6
+sex : male

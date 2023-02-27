@@ -1,0 +1,6 @@
+name : 장예준
+age : 96
+e-mail : 4xasqw4n@bhban.com
+division : oq2
+telephone : 010-0696-5406
+sex : male

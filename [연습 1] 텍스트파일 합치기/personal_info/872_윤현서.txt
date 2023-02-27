@@ -1,0 +1,6 @@
+name : 윤현서
+age : 46
+e-mail : qxdtolqm@bhban.com
+division : qq4
+telephone : 010-1246-7412
+sex : male

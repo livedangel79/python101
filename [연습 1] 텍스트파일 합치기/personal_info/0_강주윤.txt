@@ -1,0 +1,6 @@
+name : 강주윤
+age : 06
+e-mail : zz0idk89@bhban.com
+division : eif
+telephone : 010-7906-1679
+sex : male

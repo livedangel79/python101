@@ -1,0 +1,6 @@
+name : 조지은
+age : 13
+e-mail : zr368kcq@bhban.com
+division : 51l
+telephone : 010-8813-8988
+sex : male

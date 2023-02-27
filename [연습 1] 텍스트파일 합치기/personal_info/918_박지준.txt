@@ -1,0 +1,6 @@
+name : 박지준
+age : 38
+e-mail : x4eyakaq@bhban.com
+division : r9p
+telephone : 010-7838-8578
+sex : female

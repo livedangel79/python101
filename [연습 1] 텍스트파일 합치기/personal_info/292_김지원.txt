@@ -1,0 +1,6 @@
+name : 김지원
+age : 48
+e-mail : z64lrnm5@bhban.com
+division : dib
+telephone : 010-7848-0678
+sex : female

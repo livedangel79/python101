@@ -1,0 +1,6 @@
+name : 윤예은
+age : 26
+e-mail : 72tdrvvy@bhban.com
+division : 2fq
+telephone : 010-1026-4510
+sex : male

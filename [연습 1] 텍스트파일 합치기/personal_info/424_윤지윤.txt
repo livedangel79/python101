@@ -1,0 +1,6 @@
+name : 윤지윤
+age : 94
+e-mail : zpstl4w5@bhban.com
+division : is3
+telephone : 010-2794-4527
+sex : female

@@ -1,0 +1,6 @@
+name : 정윤서
+age : 27
+e-mail : zlwzsz7x@bhban.com
+division : 147
+telephone : 010-6827-5468
+sex : female

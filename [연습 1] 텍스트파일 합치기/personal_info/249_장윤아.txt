@@ -1,0 +1,6 @@
+name : 장윤아
+age : 46
+e-mail : 1wsoor3a@bhban.com
+division : t4u
+telephone : 010-8746-9487
+sex : female

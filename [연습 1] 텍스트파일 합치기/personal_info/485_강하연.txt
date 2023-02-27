@@ -1,0 +1,6 @@
+name : 강하연
+age : 64
+e-mail : d3us3nz9@bhban.com
+division : 9r3
+telephone : 010-8164-6181
+sex : female

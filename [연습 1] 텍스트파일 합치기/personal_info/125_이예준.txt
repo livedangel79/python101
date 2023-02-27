@@ -1,0 +1,6 @@
+name : 이예준
+age : 69
+e-mail : s9lwgbey@bhban.com
+division : eio
+telephone : 010-5769-.557
+sex : female

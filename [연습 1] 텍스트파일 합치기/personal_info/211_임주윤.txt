@@ -1,0 +1,6 @@
+name : 임주윤
+age : 43
+e-mail : kdd99gmg@bhban.com
+division : dbt
+telephone : 010-1043-8410
+sex : female

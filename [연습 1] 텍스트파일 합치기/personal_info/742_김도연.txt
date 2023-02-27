@@ -1,0 +1,6 @@
+name : 김도연
+age : 39
+e-mail : wd7rc3wa@bhban.com
+division : id7
+telephone : 010-3639-7336
+sex : female

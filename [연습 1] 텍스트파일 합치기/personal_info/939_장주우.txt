@@ -1,0 +1,6 @@
+name : 장주우
+age : 91
+e-mail : cwoancs0@bhban.com
+division : crq
+telephone : 010-1891-9218
+sex : female

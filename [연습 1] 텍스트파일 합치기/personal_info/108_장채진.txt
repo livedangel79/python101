@@ -1,0 +1,6 @@
+name : 장채진
+age : 88
+e-mail : awcvffmu@bhban.com
+division : huu
+telephone : 010-2688-5526
+sex : female

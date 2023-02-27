@@ -1,0 +1,6 @@
+name : 조지준
+age : 71
+e-mail : fqr1rdez@bhban.com
+division : ztb
+telephone : 010-7171-2471
+sex : female

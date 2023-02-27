@@ -1,0 +1,6 @@
+name : 정윤원
+age : 92
+e-mail : q659nn2c@bhban.com
+division : nsc
+telephone : 010-2692-5626
+sex : female

@@ -1,0 +1,6 @@
+name : 임도윤
+age : 69
+e-mail : mfyk3egi@bhban.com
+division : ioc
+telephone : 010-7869-6978
+sex : female

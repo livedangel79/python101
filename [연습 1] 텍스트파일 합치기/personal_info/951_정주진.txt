@@ -1,0 +1,6 @@
+name : 정주진
+age : 22
+e-mail : c4aoth9i@bhban.com
+division : ylc
+telephone : 010-1822-9518
+sex : male

@@ -1,0 +1,6 @@
+name : 정지준
+age : 96
+e-mail : s0lglgkn@bhban.com
+division : svw
+telephone : 010-7196-2371
+sex : male

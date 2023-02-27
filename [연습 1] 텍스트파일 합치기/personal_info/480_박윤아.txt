@@ -1,0 +1,6 @@
+name : 박윤아
+age : 02
+e-mail : 6xav3gv8@bhban.com
+division : ax9
+telephone : 010-8202-6082
+sex : male

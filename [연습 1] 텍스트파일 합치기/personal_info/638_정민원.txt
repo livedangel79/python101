@@ -1,0 +1,6 @@
+name : 정민원
+age : 87
+e-mail : afr8pbtf@bhban.com
+division : 6pg
+telephone : 010-4287-7042
+sex : male

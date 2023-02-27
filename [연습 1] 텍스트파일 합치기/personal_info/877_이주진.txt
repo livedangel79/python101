@@ -1,0 +1,6 @@
+name : 이주진
+age : 17
+e-mail : 9pd9rwac@bhban.com
+division : 2tq
+telephone : 010-1217-7512
+sex : female

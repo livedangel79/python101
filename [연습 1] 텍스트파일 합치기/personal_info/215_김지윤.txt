@@ -1,0 +1,6 @@
+name : 김지윤
+age : 16
+e-mail : 3f1uqyfv@bhban.com
+division : il3
+telephone : 010-1016-8510
+sex : male

@@ -1,0 +1,6 @@
+name : 최윤연
+age : 78
+e-mail : qoedfoor@bhban.com
+division : z7n
+telephone : 010-2978-0029
+sex : female

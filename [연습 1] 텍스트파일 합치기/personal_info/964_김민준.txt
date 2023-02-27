@@ -1,0 +1,6 @@
+name : 김민준
+age : 34
+e-mail : halz10fo@bhban.com
+division : xnt
+telephone : 010-1934-9919
+sex : male

@@ -1,0 +1,6 @@
+name : 윤주아
+age : 55
+e-mail : uqqrztw1@bhban.com
+division : n6y
+telephone : 010-9555-2695
+sex : male

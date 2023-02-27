@@ -1,0 +1,6 @@
+name : 장지연
+age : 03
+e-mail : tdomqfy8@bhban.com
+division : tf8
+telephone : 010-7203-2772
+sex : male

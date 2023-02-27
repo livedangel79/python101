@@ -1,0 +1,6 @@
+name : 강도윤
+age : 34
+e-mail : 7nbme167@bhban.com
+division : w1v
+telephone : 010-1934-9919
+sex : female

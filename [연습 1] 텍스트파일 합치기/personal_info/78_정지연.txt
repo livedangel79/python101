@@ -1,0 +1,6 @@
+name : 정지연
+age : 87
+e-mail : ewwti1uo@bhban.com
+division : 28k
+telephone : 010-1087-4310
+sex : female

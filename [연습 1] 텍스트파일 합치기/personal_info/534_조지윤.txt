@@ -1,0 +1,6 @@
+name : 조지윤
+age : 44
+e-mail : zin7qabo@bhban.com
+division : yve
+telephone : 010-1544-7615
+sex : male

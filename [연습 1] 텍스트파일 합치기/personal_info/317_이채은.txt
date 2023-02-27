@@ -1,0 +1,6 @@
+name : 이채은
+age : 67
+e-mail : aomq2g3m@bhban.com
+division : 9gt
+telephone : 010-8167-1381
+sex : female

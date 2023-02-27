@@ -1,0 +1,6 @@
+name : 정서진
+age : 33
+e-mail : ho83qhnb@bhban.com
+division : 2x7
+telephone : 010-8833-9088
+sex : male

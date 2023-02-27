@@ -1,0 +1,6 @@
+name : 윤채우
+age : 84
+e-mail : gr8tlntq@bhban.com
+division : klr
+telephone : 010-5684-5656
+sex : female

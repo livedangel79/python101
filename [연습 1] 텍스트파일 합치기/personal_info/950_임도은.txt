@@ -1,0 +1,6 @@
+name : 임도은
+age : 22
+e-mail : 1t590n09@bhban.com
+division : yu6
+telephone : 010-1822-9518
+sex : male

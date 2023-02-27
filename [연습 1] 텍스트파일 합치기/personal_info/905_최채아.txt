@@ -1,0 +1,6 @@
+name : 최채아
+age : 93
+e-mail : a49m1zur@bhban.com
+division : sfz
+telephone : 010-2793-7827
+sex : female

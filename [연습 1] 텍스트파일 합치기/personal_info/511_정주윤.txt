@@ -1,0 +1,6 @@
+name : 정주윤
+age : 28
+e-mail : wgib9n78@bhban.com
+division : 50y
+telephone : 010-8728-6687
+sex : male

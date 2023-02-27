@@ -1,0 +1,6 @@
+name : 정지우
+age : 08
+e-mail : 278vnan7@bhban.com
+division : o5z
+telephone : 010-5808-6958
+sex : male

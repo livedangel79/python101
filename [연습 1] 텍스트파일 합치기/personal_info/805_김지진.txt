@@ -1,0 +1,6 @@
+name : 김지진
+age : 96
+e-mail : z0otlbn1@bhban.com
+division : zys
+telephone : 010-0696-5406
+sex : male

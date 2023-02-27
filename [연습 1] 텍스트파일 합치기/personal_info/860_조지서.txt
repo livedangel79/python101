@@ -1,0 +1,6 @@
+name : 조지서
+age : 42
+e-mail : f8mre2dg@bhban.com
+division : vic
+telephone : 010-1342-7013
+sex : female

@@ -1,0 +1,6 @@
+name : 정도호
+age : 22
+e-mail : 32wvtnr7@bhban.com
+division : bt9
+telephone : 010-2922-0229
+sex : female

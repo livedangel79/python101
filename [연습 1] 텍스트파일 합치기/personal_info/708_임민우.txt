@@ -1,0 +1,6 @@
+name : 임민우
+age : 96
+e-mail : gldmxbm3@bhban.com
+division : 5lf
+telephone : 010-7196-2371
+sex : female

@@ -1,0 +1,6 @@
+name : 강채은
+age : 25
+e-mail : 1uh1pqbn@bhban.com
+division : 8my
+telephone : 010-9925-5299
+sex : female

@@ -1,0 +1,6 @@
+name : 이지준
+age : 66
+e-mail : 1wadoa03@bhban.com
+division : xin
+telephone : 010-2866-0228
+sex : female

@@ -1,0 +1,6 @@
+name : 강지준
+age : 74
+e-mail : d8hw5cu3@bhban.com
+division : zlg
+telephone : 010-0774-5107
+sex : female

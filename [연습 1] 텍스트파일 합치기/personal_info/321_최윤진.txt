@@ -1,0 +1,6 @@
+name : 최윤진
+age : 43
+e-mail : rwzgzmfi@bhban.com
+division : zsu
+telephone : 010-8143-1481
+sex : female

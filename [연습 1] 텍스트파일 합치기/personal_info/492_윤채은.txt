@@ -1,0 +1,6 @@
+name : 윤채은
+age : 24
+e-mail : ba0tzns3@bhban.com
+division : p6r
+telephone : 010-8124-6381
+sex : female

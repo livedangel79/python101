@@ -1,0 +1,6 @@
+name : 김채준
+age : 98
+e-mail : mmkb570x@bhban.com
+division : ol4
+telephone : 010-3498-2234
+sex : female

@@ -1,0 +1,6 @@
+name : 강서우
+age : 52
+e-mail : qc9a8own@bhban.com
+division : lq2
+telephone : 010-1652-7216
+sex : male

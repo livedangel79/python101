@@ -1,0 +1,6 @@
+name : 이채후
+age : 28
+e-mail : 412m5mud@bhban.com
+division : z6o
+telephone : 010-8728-6687
+sex : female

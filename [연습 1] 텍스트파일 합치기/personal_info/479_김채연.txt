@@ -1,0 +1,6 @@
+name : 김채연
+age : 02
+e-mail : qnvgxg9v@bhban.com
+division : vck
+telephone : 010-8202-6082
+sex : female

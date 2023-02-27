@@ -1,0 +1,6 @@
+name : 강예원
+age : 12
+e-mail : hzs9065i@bhban.com
+division : mxs
+telephone : 010-2912-3429
+sex : female

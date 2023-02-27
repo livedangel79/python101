@@ -1,0 +1,6 @@
+name : 강윤원
+age : 08
+e-mail : nikt12fs@bhban.com
+division : 97q
+telephone : 010-6908-8869
+sex : male

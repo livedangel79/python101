@@ -1,0 +1,6 @@
+name : 윤채후
+age : 08
+e-mail : wzupuw1x@bhban.com
+division : tia
+telephone : 010-5808-6958
+sex : male

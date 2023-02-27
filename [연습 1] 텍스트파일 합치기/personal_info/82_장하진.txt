@@ -1,0 +1,6 @@
+name : 장하진
+age : 26
+e-mail : wqrls47o@bhban.com
+division : xgz
+telephone : 010-1026-4510
+sex : male

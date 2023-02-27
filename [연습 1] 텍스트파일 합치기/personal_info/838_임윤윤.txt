@@ -1,0 +1,6 @@
+name : 임윤윤
+age : 94
+e-mail : bvt0m97i@bhban.com
+division : w29
+telephone : 010-3094-6430
+sex : male

@@ -1,0 +1,6 @@
+name : 강지은
+age : 33
+e-mail : eg529ns1@bhban.com
+division : igg
+telephone : 010-8833-9088
+sex : female

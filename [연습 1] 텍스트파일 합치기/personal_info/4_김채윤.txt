@@ -1,0 +1,6 @@
+name : 김채윤
+age : 37
+e-mail : 3aftgqlb@bhban.com
+division : b4b
+telephone : 010-0137-1801
+sex : male

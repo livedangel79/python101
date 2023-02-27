@@ -1,0 +1,6 @@
+name : 강지윤
+age : 88
+e-mail : zx4xmlcy@bhban.com
+division : 8h7
+telephone : 010-2888-0128
+sex : male

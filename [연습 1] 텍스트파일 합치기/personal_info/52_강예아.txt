@@ -1,0 +1,6 @@
+name : 강예아
+age : 31
+e-mail : nx9am7wt@bhban.com
+division : gmq
+telephone : 010-9131-3391
+sex : female

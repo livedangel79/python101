@@ -1,0 +1,6 @@
+name : 윤채후
+age : 83
+e-mail : b9vbzumr@bhban.com
+division : spa
+telephone : 010-9583-2495
+sex : female

@@ -1,0 +1,6 @@
+name : 이서준
+age : 87
+e-mail : 917wxk9c@bhban.com
+division : 4pl
+telephone : 010-4287-7042
+sex : female

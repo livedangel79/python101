@@ -1,0 +1,6 @@
+name : 이도우
+age : 35
+e-mail : iltp271b@bhban.com
+division : 0kz
+telephone : 010-7235-2272
+sex : male

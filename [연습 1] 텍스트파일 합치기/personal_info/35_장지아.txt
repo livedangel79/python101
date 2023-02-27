@@ -1,0 +1,6 @@
+name : 장지아
+age : 45
+e-mail : 5tii91wb@bhban.com
+division : g0a
+telephone : 010-7545-2875
+sex : male

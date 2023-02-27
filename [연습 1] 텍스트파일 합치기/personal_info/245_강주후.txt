@@ -1,0 +1,6 @@
+name : 강주후
+age : 73
+e-mail : wfymu1kf@bhban.com
+division : i90
+telephone : 010-8773-9387
+sex : female

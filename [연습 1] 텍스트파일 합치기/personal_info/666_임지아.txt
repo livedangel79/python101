@@ -1,0 +1,6 @@
+name : 임지아
+age : 46
+e-mail : 9091om0r@bhban.com
+division : 97f
+telephone : 010-6346-1163
+sex : male

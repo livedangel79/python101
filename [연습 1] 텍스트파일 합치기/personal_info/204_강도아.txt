@@ -1,0 +1,6 @@
+name : 강도아
+age : 02
+e-mail : iyb9ilh6@bhban.com
+division : kze
+telephone : 010-1102-8211
+sex : female

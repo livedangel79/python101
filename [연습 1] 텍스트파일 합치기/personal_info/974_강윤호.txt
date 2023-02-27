@@ -1,0 +1,6 @@
+name : 강윤호
+age : 73
+e-mail : dp743hz0@bhban.com
+division : zul
+telephone : 010-1873-0118
+sex : female

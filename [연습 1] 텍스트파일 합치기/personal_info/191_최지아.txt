@@ -1,0 +1,6 @@
+name : 최지아
+age : 28
+e-mail : c0yfv86e@bhban.com
+division : bog
+telephone : 010-0728-7807
+sex : male

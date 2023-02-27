@@ -1,0 +1,6 @@
+name : 최민진
+age : 43
+e-mail : ql4mpcqq@bhban.com
+division : 7ih
+telephone : 010-8143-1481
+sex : male

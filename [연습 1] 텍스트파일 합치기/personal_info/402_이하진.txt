@@ -1,0 +1,6 @@
+name : 이하진
+age : 61
+e-mail : i6m9yg9a@bhban.com
+division : 79x
+telephone : 010-2961-3829
+sex : female

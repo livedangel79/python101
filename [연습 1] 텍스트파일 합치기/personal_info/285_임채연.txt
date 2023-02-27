@@ -1,0 +1,6 @@
+name : 임채연
+age : 85
+e-mail : v1tw3ubm@bhban.com
+division : v58
+telephone : 010-2785-0527
+sex : female

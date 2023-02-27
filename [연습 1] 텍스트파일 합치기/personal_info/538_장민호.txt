@@ -1,0 +1,6 @@
+name : 장민호
+age : 22
+e-mail : kzx11uuh@bhban.com
+division : 40u
+telephone : 010-1522-7715
+sex : male

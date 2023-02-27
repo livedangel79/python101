@@ -1,0 +1,6 @@
+name : 이지윤
+age : 45
+e-mail : g1zz6n5g@bhban.com
+division : 62r
+telephone : 010-7545-2875
+sex : female

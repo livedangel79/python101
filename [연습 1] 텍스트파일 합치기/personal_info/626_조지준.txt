@@ -1,0 +1,6 @@
+name : 조지준
+age : 51
+e-mail : c0feq327@bhban.com
+division : ugl
+telephone : 010-2951-0129
+sex : female

@@ -1,0 +1,6 @@
+name : 최주윤
+age : 39
+e-mail : ut6zeex6@bhban.com
+division : mv3
+telephone : 010-6239-1562
+sex : female

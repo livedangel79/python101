@@ -1,0 +1,6 @@
+name : 김서호
+age : 02
+e-mail : 7fw22yms@bhban.com
+division : 3wk
+telephone : 010-1102-4211
+sex : female

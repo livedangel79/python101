@@ -1,0 +1,6 @@
+name : 정서연
+age : 18
+e-mail : vkl3rw9g@bhban.com
+division : 9k5
+telephone : 010-6718-6867
+sex : male

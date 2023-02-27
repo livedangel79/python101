@@ -1,0 +1,6 @@
+name : 윤채진
+age : 75
+e-mail : 6x1r5ays@bhban.com
+division : zwv
+telephone : 010-6275-1462
+sex : male

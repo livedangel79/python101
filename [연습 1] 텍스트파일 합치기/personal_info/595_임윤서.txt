@@ -1,0 +1,6 @@
+name : 임윤서
+age : 56
+e-mail : 2zumpkq7@bhban.com
+division : age
+telephone : 010-8756-9287
+sex : male

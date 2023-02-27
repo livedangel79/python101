@@ -1,0 +1,6 @@
+name : 임윤진
+age : 34
+e-mail : 1swv5vs0@bhban.com
+division : 14i
+telephone : 010-8734-7187
+sex : male

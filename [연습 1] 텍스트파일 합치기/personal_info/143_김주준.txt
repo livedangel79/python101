@@ -1,0 +1,6 @@
+name : 김주준
+age : 95
+e-mail : hy480lx6@bhban.com
+division : 9v5
+telephone : 010-6895-6368
+sex : female

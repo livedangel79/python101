@@ -1,0 +1,6 @@
+name : 윤하윤
+age : 15
+e-mail : usnptk0w@bhban.com
+division : rw9
+telephone : 010-8715-9387
+sex : male

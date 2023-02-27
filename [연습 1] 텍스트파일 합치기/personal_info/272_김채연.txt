@@ -1,0 +1,6 @@
+name : 김채연
+age : 88
+e-mail : hpli5mnp@bhban.com
+division : f0a
+telephone : 010-2888-0128
+sex : female

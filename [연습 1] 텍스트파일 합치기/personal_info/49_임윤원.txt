@@ -1,0 +1,6 @@
+name : 임윤원
+age : 18
+e-mail : usm4snvc@bhban.com
+division : ooc
+telephone : 010-2918-5329
+sex : female

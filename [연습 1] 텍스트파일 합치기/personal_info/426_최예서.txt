@@ -1,0 +1,6 @@
+name : 최예서
+age : 94
+e-mail : i3iqapbt@bhban.com
+division : fgt
+telephone : 010-2794-4527
+sex : female

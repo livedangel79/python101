@@ -1,0 +1,6 @@
+name : 강현은
+age : 24
+e-mail : 4ga4s87d@bhban.com
+division : 9zq
+telephone : 010-5824-0858
+sex : male

@@ -1,0 +1,6 @@
+name : 최서윤
+age : 15
+e-mail : u50hqr0a@bhban.com
+division : frq
+telephone : 010-3015-3030
+sex : female

@@ -1,0 +1,6 @@
+name : 김윤준
+age : 48
+e-mail : p4mstgzx@bhban.com
+division : tqr
+telephone : 010-7848-0678
+sex : male

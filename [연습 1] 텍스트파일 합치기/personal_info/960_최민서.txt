@@ -1,0 +1,6 @@
+name : 최민서
+age : 25
+e-mail : 3wvi20z3@bhban.com
+division : xfv
+telephone : 010-1925-9819
+sex : female

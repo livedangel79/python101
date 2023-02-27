@@ -1,0 +1,6 @@
+name : 김하연
+age : 48
+e-mail : 20mzzp91@bhban.com
+division : lc1
+telephone : 010-1148-8011
+sex : female

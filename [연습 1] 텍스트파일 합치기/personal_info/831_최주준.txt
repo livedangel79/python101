@@ -1,0 +1,6 @@
+name : 최주준
+age : 48
+e-mail : a5hcq52d@bhban.com
+division : wt7
+telephone : 010-3148-6231
+sex : male

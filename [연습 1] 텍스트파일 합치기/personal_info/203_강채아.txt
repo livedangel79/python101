@@ -1,0 +1,6 @@
+name : 강채아
+age : 24
+e-mail : ksolsyz1@bhban.com
+division : urr
+telephone : 010-1124-8111
+sex : female

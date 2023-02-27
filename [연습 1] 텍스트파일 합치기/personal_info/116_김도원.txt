@@ -1,0 +1,6 @@
+name : 김도원
+age : 27
+e-mail : nwuyvd7g@bhban.com
+division : b82
+telephone : 010-6827-5468
+sex : female

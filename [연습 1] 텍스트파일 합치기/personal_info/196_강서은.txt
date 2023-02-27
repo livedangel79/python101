@@ -1,0 +1,6 @@
+name : 강서은
+age : 19
+e-mail : nzbga369@bhban.com
+division : vnm
+telephone : 010-9119-5791
+sex : female

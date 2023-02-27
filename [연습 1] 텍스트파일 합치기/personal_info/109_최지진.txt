@@ -1,0 +1,6 @@
+name : 최지진
+age : 88
+e-mail : fwqgey2q@bhban.com
+division : ohn
+telephone : 010-2688-5526
+sex : female

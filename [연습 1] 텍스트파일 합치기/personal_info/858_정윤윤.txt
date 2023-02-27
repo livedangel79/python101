@@ -1,0 +1,6 @@
+name : 정윤윤
+age : 42
+e-mail : v9wie73o@bhban.com
+division : v1c
+telephone : 010-1342-7013
+sex : female

@@ -1,0 +1,6 @@
+name : 윤하윤
+age : 25
+e-mail : imtawrzt@bhban.com
+division : 65w
+telephone : 010-1925-9819
+sex : female

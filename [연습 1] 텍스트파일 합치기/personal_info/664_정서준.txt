@@ -1,0 +1,6 @@
+name : 정서준
+age : 46
+e-mail : 2l9eoa6q@bhban.com
+division : 10z
+telephone : 010-6346-1163
+sex : female

@@ -1,0 +1,6 @@
+name : 강채서
+age : 47
+e-mail : ib8ptm8d@bhban.com
+division : zik
+telephone : 010-8247-5882
+sex : male

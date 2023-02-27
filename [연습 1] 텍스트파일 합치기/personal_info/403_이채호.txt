@@ -1,0 +1,6 @@
+name : 이채호
+age : 61
+e-mail : 2w4z1gda@bhban.com
+division : 0z9
+telephone : 010-2961-3829
+sex : female

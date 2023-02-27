@@ -1,0 +1,6 @@
+name : 윤주우
+age : 87
+e-mail : wf1p1whg@bhban.com
+division : lpb
+telephone : 010-2287-6422
+sex : female

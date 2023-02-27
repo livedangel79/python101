@@ -1,0 +1,6 @@
+name : 최윤서
+age : 28
+e-mail : gn63imcf@bhban.com
+division : uyk
+telephone : 010-7828-4378
+sex : male

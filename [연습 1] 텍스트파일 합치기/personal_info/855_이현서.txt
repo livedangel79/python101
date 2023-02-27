@@ -1,0 +1,6 @@
+name : 이현서
+age : 18
+e-mail : pnwiuxab@bhban.com
+division : wbb
+telephone : 010-6718-6867
+sex : female

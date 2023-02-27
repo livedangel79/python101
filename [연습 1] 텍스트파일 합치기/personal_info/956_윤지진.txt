@@ -1,0 +1,6 @@
+name : 윤지진
+age : 95
+e-mail : ik292pwr@bhban.com
+division : 61l
+telephone : 010-6895-9668
+sex : male

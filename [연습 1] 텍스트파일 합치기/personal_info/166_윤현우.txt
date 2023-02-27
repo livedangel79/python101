@@ -1,0 +1,6 @@
+name : 윤현우
+age : 86
+e-mail : lrn29df7@bhban.com
+division : 3y6
+telephone : 010-5786-7057
+sex : male

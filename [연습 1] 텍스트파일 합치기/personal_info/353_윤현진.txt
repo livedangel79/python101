@@ -1,0 +1,6 @@
+name : 윤현진
+age : 24
+e-mail : 5mvk5uhg@bhban.com
+division : hzr
+telephone : 010-9624-2396
+sex : male

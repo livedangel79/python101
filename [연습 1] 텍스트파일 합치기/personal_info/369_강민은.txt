@@ -1,0 +1,6 @@
+name : 강민은
+age : 06
+e-mail : bpwonxw5@bhban.com
+division : dgt
+telephone : 010-9306-6293
+sex : male

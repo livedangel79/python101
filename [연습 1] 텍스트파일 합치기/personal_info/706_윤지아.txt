@@ -1,0 +1,6 @@
+name : 윤지아
+age : 96
+e-mail : 4glf852f@bhban.com
+division : 7kd
+telephone : 010-7196-2371
+sex : female

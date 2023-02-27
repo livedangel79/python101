@@ -1,0 +1,6 @@
+name : 이채원
+age : 43
+e-mail : 94hqagfz@bhban.com
+division : z5f
+telephone : 010-1843-0218
+sex : male

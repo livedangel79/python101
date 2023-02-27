@@ -1,0 +1,6 @@
+name : 정채준
+age : 41
+e-mail : ka0lrk4m@bhban.com
+division : geu
+telephone : 010-2641-7326
+sex : female

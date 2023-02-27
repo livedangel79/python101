@@ -1,0 +1,6 @@
+name : 이지서
+age : 79
+e-mail : q0s9ez13@bhban.com
+division : cyp
+telephone : 010-6979-4969
+sex : male

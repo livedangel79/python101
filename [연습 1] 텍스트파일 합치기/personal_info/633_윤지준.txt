@@ -1,0 +1,6 @@
+name : 윤지준
+age : 95
+e-mail : pv8rzpyu@bhban.com
+division : zrh
+telephone : 010-2895-0328
+sex : female

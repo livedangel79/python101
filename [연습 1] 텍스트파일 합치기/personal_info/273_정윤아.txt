@@ -1,0 +1,6 @@
+name : 정윤아
+age : 66
+e-mail : 9yzswl8m@bhban.com
+division : 0cr
+telephone : 010-2866-0228
+sex : male

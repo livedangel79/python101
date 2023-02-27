@@ -1,0 +1,6 @@
+name : 김지우
+age : 73
+e-mail : 1erlxtnr@bhban.com
+division : 70u
+telephone : 010-1873-0118
+sex : male

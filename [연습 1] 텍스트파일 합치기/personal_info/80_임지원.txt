@@ -1,0 +1,6 @@
+name : 임지원
+age : 65
+e-mail : 9nipgo75@bhban.com
+division : 6d9
+telephone : 010-1065-4410
+sex : female

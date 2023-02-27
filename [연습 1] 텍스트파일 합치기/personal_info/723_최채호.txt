@@ -1,0 +1,6 @@
+name : 최채호
+age : 55
+e-mail : hvmz0d2y@bhban.com
+division : e8b
+telephone : 010-6355-2863
+sex : female

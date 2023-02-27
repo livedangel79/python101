@@ -1,0 +1,6 @@
+name : 최지연
+age : 93
+e-mail : svv6xn20@bhban.com
+division : g1w
+telephone : 010-2793-7827
+sex : female

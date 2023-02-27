@@ -1,0 +1,6 @@
+name : 임주아
+age : 93
+e-mail : zatx7pie@bhban.com
+division : 511
+telephone : 010-9793-7397
+sex : female

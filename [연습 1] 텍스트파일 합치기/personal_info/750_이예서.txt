@@ -1,0 +1,6 @@
+name : 이예서
+age : 33
+e-mail : 9x2msdrq@bhban.com
+division : qgm
+telephone : 010-5633-7356
+sex : male

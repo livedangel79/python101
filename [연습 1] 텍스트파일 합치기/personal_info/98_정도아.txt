@@ -1,0 +1,6 @@
+name : 정도아
+age : 79
+e-mail : t35z68cg@bhban.com
+division : pla
+telephone : 010-6979-4969
+sex : female

@@ -1,0 +1,6 @@
+name : 정지연
+age : 55
+e-mail : tmywsx27@bhban.com
+division : lkb
+telephone : 010-7955-3879
+sex : male

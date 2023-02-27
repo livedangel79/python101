@@ -1,0 +1,6 @@
+name : 박현진
+age : 43
+e-mail : cg1hf13a@bhban.com
+division : yki
+telephone : 010-1843-0218
+sex : female

@@ -1,0 +1,6 @@
+name : 김서아
+age : 25
+e-mail : 3ozzzom1@bhban.com
+division : 2pp
+telephone : 010-7325-1973
+sex : female

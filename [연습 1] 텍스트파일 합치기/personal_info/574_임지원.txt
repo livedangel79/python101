@@ -1,0 +1,6 @@
+name : 임지원
+age : 79
+e-mail : 98dk1l8x@bhban.com
+division : ynv
+telephone : 010-9779-8697
+sex : female

@@ -1,0 +1,6 @@
+name : 이현호
+age : 92
+e-mail : 3svedi3b@bhban.com
+division : r7y
+telephone : 010-6392-1763
+sex : male

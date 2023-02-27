@@ -1,0 +1,6 @@
+name : 이서은
+age : 46
+e-mail : uywhgna7@bhban.com
+division : e1b
+telephone : 010-3646-2536
+sex : female

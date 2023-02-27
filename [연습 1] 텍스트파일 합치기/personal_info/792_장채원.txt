@@ -1,0 +1,6 @@
+name : 장채원
+age : 34
+e-mail : 4mhpqtii@bhban.com
+division : 5sz
+telephone : 010-6434-4864
+sex : male

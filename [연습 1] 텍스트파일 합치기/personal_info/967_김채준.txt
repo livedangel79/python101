@@ -1,0 +1,6 @@
+name : 김채준
+age : 34
+e-mail : 342lbh0o@bhban.com
+division : 6qi
+telephone : 010-1934-9919
+sex : female

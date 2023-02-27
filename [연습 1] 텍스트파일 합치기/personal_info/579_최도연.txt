@@ -1,0 +1,6 @@
+name : 최도연
+age : 92
+e-mail : 2x171sfq@bhban.com
+division : vcc
+telephone : 010-6892-8868
+sex : male

@@ -1,0 +1,6 @@
+name : 강현진
+age : 55
+e-mail : 0ongk4pa@bhban.com
+division : 9bw
+telephone : 010-6355-2863
+sex : male

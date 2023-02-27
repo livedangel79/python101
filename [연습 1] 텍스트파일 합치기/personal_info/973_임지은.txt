@@ -1,0 +1,6 @@
+name : 임지은
+age : 73
+e-mail : 3q3onrx7@bhban.com
+division : ezt
+telephone : 010-1873-0118
+sex : female

@@ -1,0 +1,6 @@
+name : 장서우
+age : 56
+e-mail : deahlf0l@bhban.com
+division : 27p
+telephone : 010-5656-6856
+sex : female

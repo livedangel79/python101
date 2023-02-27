@@ -1,0 +1,6 @@
+name : 정하아
+age : 31
+e-mail : wyg3qu1l@bhban.com
+division : l4t
+telephone : 010-7131-7171
+sex : female

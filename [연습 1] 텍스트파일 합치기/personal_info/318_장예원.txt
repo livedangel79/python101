@@ -1,0 +1,6 @@
+name : 장예원
+age : 43
+e-mail : 8szz72lb@bhban.com
+division : f6l
+telephone : 010-8143-1481
+sex : female

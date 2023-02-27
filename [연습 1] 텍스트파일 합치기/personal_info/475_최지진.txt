@@ -1,0 +1,6 @@
+name : 최지진
+age : 41
+e-mail : 4vw0ca2z@bhban.com
+division : i4g
+telephone : 010-8241-5982
+sex : female

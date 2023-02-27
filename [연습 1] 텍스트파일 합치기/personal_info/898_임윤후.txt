@@ -1,0 +1,6 @@
+name : 임윤후
+age : 87
+e-mail : ddv6tveu@bhban.com
+division : 196
+telephone : 010-7987-8079
+sex : female

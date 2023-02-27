@@ -1,0 +1,6 @@
+name : 이주연
+age : 55
+e-mail : k7srb401@bhban.com
+division : fz4
+telephone : 010-7955-3879
+sex : female

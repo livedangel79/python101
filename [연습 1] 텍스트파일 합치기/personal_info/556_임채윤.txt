@@ -1,0 +1,6 @@
+name : 임채윤
+age : 06
+e-mail : 6uyt1s93@bhban.com
+division : hpz
+telephone : 010-9906-8199
+sex : male

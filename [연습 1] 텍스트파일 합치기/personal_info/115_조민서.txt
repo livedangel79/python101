@@ -1,0 +1,6 @@
+name : 조민서
+age : 27
+e-mail : yae5ncsm@bhban.com
+division : zqw
+telephone : 010-6827-5468
+sex : male

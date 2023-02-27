@@ -1,0 +1,6 @@
+name : 윤윤윤
+age : 04
+e-mail : 0atlxgtz@bhban.com
+division : ml0
+telephone : 010-6804-6668
+sex : female

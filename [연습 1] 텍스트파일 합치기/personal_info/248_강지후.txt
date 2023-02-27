@@ -1,0 +1,6 @@
+name : 강지후
+age : 46
+e-mail : aftzuc3a@bhban.com
+division : vx3
+telephone : 010-8746-9487
+sex : female

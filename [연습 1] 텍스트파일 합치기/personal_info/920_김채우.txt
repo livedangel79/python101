@@ -1,0 +1,6 @@
+name : 김채우
+age : 81
+e-mail : tqlczsdc@bhban.com
+division : us5
+telephone : 010-6781-7867
+sex : female

@@ -1,0 +1,6 @@
+name : 정민은
+age : 95
+e-mail : 3rizcmwr@bhban.com
+division : 0ly
+telephone : 010-7795-5677
+sex : male

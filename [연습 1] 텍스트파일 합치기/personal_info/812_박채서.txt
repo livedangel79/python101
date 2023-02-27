@@ -1,0 +1,6 @@
+name : 박채서
+age : 05
+e-mail : p71n5cdp@bhban.com
+division : y6l
+telephone : 010-0605-5706
+sex : male

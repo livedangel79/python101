@@ -1,0 +1,6 @@
+name : 최지우
+age : 41
+e-mail : c9rtgxb3@bhban.com
+division : o7x
+telephone : 010-2841-8728
+sex : female

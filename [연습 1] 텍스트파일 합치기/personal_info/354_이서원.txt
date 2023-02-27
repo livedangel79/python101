@@ -1,0 +1,6 @@
+name : 이서원
+age : 24
+e-mail : 12gynbw5@bhban.com
+division : eoz
+telephone : 010-9624-2396
+sex : female

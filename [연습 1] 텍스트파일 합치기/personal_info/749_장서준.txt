@@ -1,0 +1,6 @@
+name : 장서준
+age : 33
+e-mail : a2712rvl@bhban.com
+division : rcz
+telephone : 010-5633-7356
+sex : female

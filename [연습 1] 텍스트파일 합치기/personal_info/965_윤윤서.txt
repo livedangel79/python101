@@ -1,0 +1,6 @@
+name : 윤윤서
+age : 34
+e-mail : xgs66g1u@bhban.com
+division : b1v
+telephone : 010-1934-9919
+sex : male

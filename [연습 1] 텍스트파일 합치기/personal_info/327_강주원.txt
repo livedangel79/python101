@@ -1,0 +1,6 @@
+name : 강주원
+age : 09
+e-mail : g04zv3po@bhban.com
+division : auh
+telephone : 010-6809-6168
+sex : male

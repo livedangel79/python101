@@ -1,0 +1,6 @@
+name : 장현연
+age : 18
+e-mail : rpnexbqw@bhban.com
+division : r9v
+telephone : 010-9118-5391
+sex : female

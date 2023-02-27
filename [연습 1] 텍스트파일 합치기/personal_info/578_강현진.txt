@@ -1,0 +1,6 @@
+name : 강현진
+age : 84
+e-mail : 33x1e7rz@bhban.com
+division : 4zz
+telephone : 010-8784-8787
+sex : female

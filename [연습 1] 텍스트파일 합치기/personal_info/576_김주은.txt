@@ -1,0 +1,6 @@
+name : 김주은
+age : 79
+e-mail : rch5a6p8@bhban.com
+division : rbc
+telephone : 010-8784-8787
+sex : male

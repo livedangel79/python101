@@ -1,0 +1,6 @@
+name : 강지우
+age : 38
+e-mail : uyb0vnzn@bhban.com
+division : lol
+telephone : 010-8038-7880
+sex : male

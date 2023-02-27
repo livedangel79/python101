@@ -1,0 +1,6 @@
+name : 최채원
+age : 13
+e-mail : t4eqcyvn@bhban.com
+division : fxp
+telephone : 010-8813-8988
+sex : male

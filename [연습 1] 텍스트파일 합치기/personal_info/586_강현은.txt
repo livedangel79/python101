@@ -1,0 +1,6 @@
+name : 강현은
+age : 13
+e-mail : 79dbmdsq@bhban.com
+division : d0i
+telephone : 010-8813-8988
+sex : male

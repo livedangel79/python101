@@ -1,0 +1,6 @@
+name : 장지은
+age : 92
+e-mail : 4n5hrwk3@bhban.com
+division : on5
+telephone : 010-1392-3713
+sex : female

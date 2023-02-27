@@ -1,0 +1,6 @@
+name : 이민은
+age : 92
+e-mail : gxii9sua@bhban.com
+division : 199
+telephone : 010-2692-5626
+sex : male

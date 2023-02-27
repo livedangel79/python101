@@ -1,0 +1,6 @@
+name : 장주은
+age : 03
+e-mail : th12sq25@bhban.com
+division : inv
+telephone : 010-9803-8598
+sex : female

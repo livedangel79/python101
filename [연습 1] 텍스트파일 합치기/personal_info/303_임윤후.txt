@@ -1,0 +1,6 @@
+name : 임윤후
+age : 58
+e-mail : b7blnaf4@bhban.com
+division : o1k
+telephone : 010-8258-1082
+sex : male

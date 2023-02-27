@@ -1,0 +1,6 @@
+name : 강서진
+age : 82
+e-mail : evt148qo@bhban.com
+division : 2td
+telephone : 010-3182-8031
+sex : male

@@ -1,0 +1,6 @@
+name : 강예연
+age : 19
+e-mail : sfu6587n@bhban.com
+division : lfy
+telephone : 010-2819-4428
+sex : male

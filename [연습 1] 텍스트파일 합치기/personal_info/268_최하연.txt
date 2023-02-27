@@ -1,0 +1,6 @@
+name : 최하연
+age : 17
+e-mail : enehnztk@bhban.com
+division : ihf
+telephone : 010-2917-0029
+sex : male

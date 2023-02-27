@@ -1,0 +1,6 @@
+name : 이지후
+age : 38
+e-mail : plhh8fyy@bhban.com
+division : seg
+telephone : 010-8138-6681
+sex : male

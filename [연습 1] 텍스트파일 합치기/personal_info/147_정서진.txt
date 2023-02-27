@@ -1,0 +1,6 @@
+name : 정서진
+age : 68
+e-mail : t40l9tu2@bhban.com
+division : z72
+telephone : 010-6868-6468
+sex : male

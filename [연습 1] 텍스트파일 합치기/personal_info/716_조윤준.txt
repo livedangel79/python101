@@ -1,0 +1,6 @@
+name : 조윤준
+age : 22
+e-mail : 9cwyvzob@bhban.com
+division : o04
+telephone : 010-7122-2671
+sex : female

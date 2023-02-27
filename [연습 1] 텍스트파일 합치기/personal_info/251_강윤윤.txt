@@ -1,0 +1,6 @@
+name : 강윤윤
+age : 17
+e-mail : 1nh14afp@bhban.com
+division : k8s
+telephone : 010-8717-9587
+sex : female

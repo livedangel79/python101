@@ -1,0 +1,6 @@
+name : 김하서
+age : 28
+e-mail : zfta1skr@bhban.com
+division : 9mv
+telephone : 010-9828-8498
+sex : male

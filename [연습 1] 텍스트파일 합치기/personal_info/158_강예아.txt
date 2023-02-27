@@ -1,0 +1,6 @@
+name : 강예아
+age : 62
+e-mail : iu7fsxam@bhban.com
+division : w1b
+telephone : 010-7762-5677
+sex : female

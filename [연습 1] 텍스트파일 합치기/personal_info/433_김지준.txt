@@ -1,0 +1,6 @@
+name : 김지준
+age : 57
+e-mail : 564787n4@bhban.com
+division : 96z
+telephone : 010-7857-4678
+sex : male

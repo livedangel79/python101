@@ -1,0 +1,6 @@
+name : 이민윤
+age : 74
+e-mail : ayta5zg5@bhban.com
+division : tvy
+telephone : 010-7774-4577
+sex : female

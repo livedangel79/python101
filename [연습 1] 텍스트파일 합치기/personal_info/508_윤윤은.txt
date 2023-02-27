@@ -1,0 +1,6 @@
+name : 윤윤은
+age : 28
+e-mail : tbweklb3@bhban.com
+division : rab
+telephone : 010-8728-6687
+sex : female

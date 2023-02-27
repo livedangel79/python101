@@ -1,0 +1,6 @@
+name : 이채호
+age : 25
+e-mail : uas734c0@bhban.com
+division : zat
+telephone : 010-1925-9819
+sex : female

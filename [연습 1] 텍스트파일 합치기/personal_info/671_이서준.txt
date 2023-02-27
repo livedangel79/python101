@@ -1,0 +1,6 @@
+name : 이서준
+age : 92
+e-mail : elk2k81l@bhban.com
+division : 2v3
+telephone : 010-6292-1362
+sex : female

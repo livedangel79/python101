@@ -1,0 +1,6 @@
+name : 강지연
+age : 47
+e-mail : g4e0euxz@bhban.com
+division : zuu
+telephone : 010-8247-5882
+sex : female

@@ -1,0 +1,6 @@
+name : 이지서
+age : 46
+e-mail : p0nhq9pp@bhban.com
+division : w5p
+telephone : 010-1246-7412
+sex : male

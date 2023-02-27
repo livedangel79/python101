@@ -1,0 +1,6 @@
+name : 조지원
+age : 93
+e-mail : g7ld0aac@bhban.com
+division : 6lo
+telephone : 010-9793-7397
+sex : female

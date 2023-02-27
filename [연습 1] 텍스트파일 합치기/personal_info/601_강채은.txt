@@ -1,0 +1,6 @@
+name : 강채은
+age : 86
+e-mail : itv784mr@bhban.com
+division : c5m
+telephone : 010-8686-9486
+sex : female

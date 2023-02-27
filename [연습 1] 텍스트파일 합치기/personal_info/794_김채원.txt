@@ -1,0 +1,6 @@
+name : 김채원
+age : 08
+e-mail : 1z8k5xz1@bhban.com
+division : 1dx
+telephone : 010-0808-5008
+sex : male

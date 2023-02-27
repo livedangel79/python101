@@ -1,0 +1,6 @@
+name : 임예아
+age : 72
+e-mail : 3z1qls6z@bhban.com
+division : r7d
+telephone : 010-0172-6701
+sex : male

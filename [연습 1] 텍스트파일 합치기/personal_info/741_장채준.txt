@@ -1,0 +1,6 @@
+name : 장채준
+age : 39
+e-mail : x319z9yn@bhban.com
+division : geq
+telephone : 010-3639-7336
+sex : female

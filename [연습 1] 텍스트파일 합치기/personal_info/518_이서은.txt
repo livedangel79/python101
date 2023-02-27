@@ -1,0 +1,6 @@
+name : 이서은
+age : 68
+e-mail : kop1c5zo@bhban.com
+division : 8pk
+telephone : 010-1168-6711
+sex : female

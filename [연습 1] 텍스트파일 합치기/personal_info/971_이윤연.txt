@@ -1,0 +1,6 @@
+name : 이윤연
+age : 73
+e-mail : b2ix5wu6@bhban.com
+division : 9x8
+telephone : 010-1873-0118
+sex : female

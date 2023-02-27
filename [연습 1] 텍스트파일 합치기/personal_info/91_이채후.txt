@@ -1,0 +1,6 @@
+name : 이채후
+age : 25
+e-mail : 6kom8bna@bhban.com
+division : ihk
+telephone : 010-6925-4769
+sex : female

@@ -1,0 +1,6 @@
+name : 강채준
+age : 88
+e-mail : n1hp4xi0@bhban.com
+division : qzz
+telephone : 010-1588-7415
+sex : female

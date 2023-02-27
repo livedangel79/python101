@@ -1,0 +1,6 @@
+name : 최주윤
+age : 25
+e-mail : pfzel88g@bhban.com
+division : l44
+telephone : 010-9925-5299
+sex : female

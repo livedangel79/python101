@@ -1,0 +1,6 @@
+name : 이지우
+age : 79
+e-mail : axhm9yqx@bhban.com
+division : l1q
+telephone : 010-9779-8697
+sex : male

@@ -1,0 +1,6 @@
+name : 조하호
+age : 18
+e-mail : vpy0mnzg@bhban.com
+division : 3x2
+telephone : 010-1318-7613
+sex : female

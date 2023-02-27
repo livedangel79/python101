@@ -1,0 +1,6 @@
+name : 박주연
+age : 13
+e-mail : fn5oepc2@bhban.com
+division : n4g
+telephone : 010-8113-1581
+sex : male

@@ -1,0 +1,6 @@
+name : 정채아
+age : 73
+e-mail : orpum6z8@bhban.com
+division : bmz
+telephone : 010-9673-2196
+sex : female

@@ -1,0 +1,6 @@
+name : 조윤진
+age : 06
+e-mail : f0635yen@bhban.com
+division : 82k
+telephone : 010-9906-8199
+sex : female

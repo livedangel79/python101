@@ -1,0 +1,6 @@
+name : 임주연
+age : 51
+e-mail : taayba5r@bhban.com
+division : ls7
+telephone : 010-2951-0129
+sex : female

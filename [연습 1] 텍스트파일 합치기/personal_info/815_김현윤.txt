@@ -1,0 +1,6 @@
+name : 김현윤
+age : 13
+e-mail : zfh0snv4@bhban.com
+division : lz3
+telephone : 010-0113-5801
+sex : female

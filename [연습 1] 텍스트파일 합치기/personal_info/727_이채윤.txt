@@ -1,0 +1,6 @@
+name : 이채윤
+age : 86
+e-mail : u2xkxea5@bhban.com
+division : gg2
+telephone : 010-6486-2964
+sex : male

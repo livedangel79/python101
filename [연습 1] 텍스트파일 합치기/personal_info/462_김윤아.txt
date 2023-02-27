@@ -1,0 +1,6 @@
+name : 김윤아
+age : 73
+e-mail : pf125rbz@bhban.com
+division : inn
+telephone : 010-5273-6552
+sex : female

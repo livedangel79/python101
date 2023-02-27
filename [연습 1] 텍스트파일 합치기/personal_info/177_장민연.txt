@@ -1,0 +1,6 @@
+name : 장민연
+age : 57
+e-mail : 7s8rvido@bhban.com
+division : un7
+telephone : 010-7357-.573
+sex : female

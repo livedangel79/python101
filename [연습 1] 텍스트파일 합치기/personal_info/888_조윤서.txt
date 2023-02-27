@@ -1,0 +1,6 @@
+name : 조윤서
+age : 96
+e-mail : w342yxo9@bhban.com
+division : llv
+telephone : 010-6196-7761
+sex : female

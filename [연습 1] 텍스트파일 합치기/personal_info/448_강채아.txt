@@ -1,0 +1,6 @@
+name : 강채아
+age : 96
+e-mail : oefiyio7@bhban.com
+division : e41
+telephone : 010-2796-5227
+sex : male

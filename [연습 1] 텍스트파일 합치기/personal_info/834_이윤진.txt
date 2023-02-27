@@ -1,0 +1,6 @@
+name : 이윤진
+age : 19
+e-mail : 8zt6wmdw@bhban.com
+division : niq
+telephone : 010-3119-6331
+sex : female

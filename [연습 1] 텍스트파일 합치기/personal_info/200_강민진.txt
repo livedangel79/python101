@@ -1,0 +1,6 @@
+name : 강민진
+age : 24
+e-mail : k51xofin@bhban.com
+division : 8p1
+telephone : 010-1124-8111
+sex : male

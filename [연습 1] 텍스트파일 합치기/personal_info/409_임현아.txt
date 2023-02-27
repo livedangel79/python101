@@ -1,0 +1,6 @@
+name : 임현아
+age : 94
+e-mail : uyy2u6kt@bhban.com
+division : 4k3
+telephone : 010-0294-6402
+sex : female

@@ -1,0 +1,6 @@
+name : 윤서아
+age : 75
+e-mail : p2rt0giu@bhban.com
+division : o9n
+telephone : 010-1575-5715
+sex : female

@@ -1,0 +1,6 @@
+name : 이지연
+age : 54
+e-mail : stme5wo9@bhban.com
+division : 6w3
+telephone : 010-2754-5427
+sex : male

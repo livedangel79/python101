@@ -1,0 +1,6 @@
+name : 임윤호
+age : 16
+e-mail : sbcnkg8x@bhban.com
+division : o8n
+telephone : 010-1016-8510
+sex : female

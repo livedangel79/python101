@@ -1,0 +1,6 @@
+name : 김예서
+age : 42
+e-mail : 7x7kvg43@bhban.com
+division : rif
+telephone : 010-7742-4677
+sex : male

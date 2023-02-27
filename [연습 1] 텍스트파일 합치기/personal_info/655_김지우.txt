@@ -1,0 +1,6 @@
+name : 김지우
+age : 24
+e-mail : prg98un4@bhban.com
+division : en6
+telephone : 010-5824-0858
+sex : female

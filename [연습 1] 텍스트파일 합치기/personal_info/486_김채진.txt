@@ -1,0 +1,6 @@
+name : 김채진
+age : 63
+e-mail : xbwaz2wh@bhban.com
+division : xlx
+telephone : 010-8163-6281
+sex : male

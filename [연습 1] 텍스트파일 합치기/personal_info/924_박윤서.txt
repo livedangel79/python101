@@ -1,0 +1,6 @@
+name : 박윤서
+age : 72
+e-mail : vp5i1q6e@bhban.com
+division : v4e
+telephone : 010-7872-8778
+sex : female

@@ -1,0 +1,6 @@
+name : 정윤준
+age : 12
+e-mail : 55z9t0e8@bhban.com
+division : tku
+telephone : 010-7912-0679
+sex : female

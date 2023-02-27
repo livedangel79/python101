@@ -1,0 +1,6 @@
+name : 임지아
+age : 13
+e-mail : rarohzfc@bhban.com
+division : 4pc
+telephone : 010-7913-0779
+sex : female

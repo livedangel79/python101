@@ -1,0 +1,6 @@
+name : 임민진
+age : 32
+e-mail : 7c85qh3c@bhban.com
+division : na3
+telephone : 010-6432-3164
+sex : female

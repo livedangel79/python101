@@ -1,0 +1,6 @@
+name : 최채아
+age : 77
+e-mail : oy5zpby9@bhban.com
+division : ik6
+telephone : 010-7877-4178
+sex : male

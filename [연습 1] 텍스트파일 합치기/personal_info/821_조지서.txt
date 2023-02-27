@@ -1,0 +1,6 @@
+name : 조지서
+age : 04
+e-mail : u63dw22x@bhban.com
+division : nvx
+telephone : 010-3204-6032
+sex : male

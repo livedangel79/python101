@@ -1,0 +1,6 @@
+name : 김서아
+age : 75
+e-mail : yt32zoqb@bhban.com
+division : a94
+telephone : 010-2875-4928
+sex : female

@@ -1,0 +1,6 @@
+name : 임지준
+age : 92
+e-mail : yuzbag0n@bhban.com
+division : lok
+telephone : 010-9192-3191
+sex : male

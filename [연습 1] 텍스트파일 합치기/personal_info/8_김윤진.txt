@@ -1,0 +1,6 @@
+name : 김윤진
+age : 36
+e-mail : p5dymfde@bhban.com
+division : vid
+telephone : 010-3536-1935
+sex : female

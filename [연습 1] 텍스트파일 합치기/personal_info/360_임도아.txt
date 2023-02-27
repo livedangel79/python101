@@ -1,0 +1,6 @@
+name : 임도아
+age : 68
+e-mail : vfrg5ms5@bhban.com
+division : i92
+telephone : 010-9568-2695
+sex : male

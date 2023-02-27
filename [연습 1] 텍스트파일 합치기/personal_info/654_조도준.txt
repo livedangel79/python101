@@ -1,0 +1,6 @@
+name : 조도준
+age : 24
+e-mail : qkwbz76r@bhban.com
+division : wu4
+telephone : 010-5824-0858
+sex : female

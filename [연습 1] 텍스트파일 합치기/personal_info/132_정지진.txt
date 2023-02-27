@@ -1,0 +1,6 @@
+name : 정지진
+age : 95
+e-mail : peg1tv38@bhban.com
+division : l6v
+telephone : 010-6995-5969
+sex : female

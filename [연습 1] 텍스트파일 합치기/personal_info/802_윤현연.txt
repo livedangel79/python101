@@ -1,0 +1,6 @@
+name : 윤현연
+age : 18
+e-mail : p6qmw998@bhban.com
+division : f5n
+telephone : 010-0718-5307
+sex : female

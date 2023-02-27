@@ -1,0 +1,6 @@
+name : 강예우
+age : 87
+e-mail : cecky837@bhban.com
+division : flm
+telephone : 010-7987-8079
+sex : female

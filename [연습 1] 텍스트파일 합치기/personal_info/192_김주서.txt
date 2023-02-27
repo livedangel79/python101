@@ -1,0 +1,6 @@
+name : 김주서
+age : 28
+e-mail : l7qk4xhu@bhban.com
+division : 6ug
+telephone : 010-0728-7807
+sex : female

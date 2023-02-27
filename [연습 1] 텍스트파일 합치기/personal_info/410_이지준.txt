@@ -1,0 +1,6 @@
+name : 이지준
+age : 94
+e-mail : kzuf9len@bhban.com
+division : gg3
+telephone : 010-0294-6402
+sex : male

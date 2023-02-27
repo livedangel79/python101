@@ -1,0 +1,6 @@
+name : 강도연
+age : 66
+e-mail : 75l8rv1c@bhban.com
+division : su5
+telephone : 010-5666-7456
+sex : female

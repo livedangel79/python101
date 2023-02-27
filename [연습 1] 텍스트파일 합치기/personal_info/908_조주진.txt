@@ -1,0 +1,6 @@
+name : 조주진
+age : 03
+e-mail : 972th9ev@bhban.com
+division : puo
+telephone : 010-7903-8379
+sex : female

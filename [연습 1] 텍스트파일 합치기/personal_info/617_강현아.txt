@@ -1,0 +1,6 @@
+name : 강현아
+age : 69
+e-mail : 345gyk2u@bhban.com
+division : 3kq
+telephone : 010-7869-6978
+sex : male

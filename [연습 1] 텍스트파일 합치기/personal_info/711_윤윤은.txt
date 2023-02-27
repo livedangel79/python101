@@ -1,0 +1,6 @@
+name : 윤윤은
+age : 71
+e-mail : 2nvg8qm0@bhban.com
+division : fo1
+telephone : 010-7171-2471
+sex : male

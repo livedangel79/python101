@@ -1,0 +1,6 @@
+name : 임현은
+age : 66
+e-mail : uyqglto0@bhban.com
+division : 8mc
+telephone : 010-5666-7456
+sex : female

@@ -1,0 +1,6 @@
+name : 임주아
+age : 69
+e-mail : daw2t83w@bhban.com
+division : dik
+telephone : 010-5769-.557
+sex : male

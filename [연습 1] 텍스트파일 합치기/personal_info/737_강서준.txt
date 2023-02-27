@@ -1,0 +1,6 @@
+name : 강서준
+age : 41
+e-mail : fbzz8fzh@bhban.com
+division : m8v
+telephone : 010-2641-7326
+sex : female

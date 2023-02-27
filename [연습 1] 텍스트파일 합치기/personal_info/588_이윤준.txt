@@ -1,0 +1,6 @@
+name : 이윤준
+age : 86
+e-mail : gqgd47dr@bhban.com
+division : xb0
+telephone : 010-8786-9087
+sex : female

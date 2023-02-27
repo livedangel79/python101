@@ -1,0 +1,6 @@
+name : 정현원
+age : 27
+e-mail : 1ewyqaq7@bhban.com
+division : wex
+telephone : 010-6827-5468
+sex : male

@@ -1,0 +1,6 @@
+name : 조윤진
+age : 88
+e-mail : v5k58blq@bhban.com
+division : zd2
+telephone : 010-9288-6792
+sex : male

@@ -1,0 +1,6 @@
+name : 조지준
+age : 57
+e-mail : swz1bpdu@bhban.com
+division : you
+telephone : 010-6457-3064
+sex : female

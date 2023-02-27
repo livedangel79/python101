@@ -1,0 +1,6 @@
+name : 강채원
+age : 95
+e-mail : hd7t6vrf@bhban.com
+division : 051
+telephone : 010-6895-6368
+sex : female

@@ -1,0 +1,6 @@
+name : 임채진
+age : 72
+e-mail : b0y7olfa@bhban.com
+division : 3n6
+telephone : 010-0172-6701
+sex : male

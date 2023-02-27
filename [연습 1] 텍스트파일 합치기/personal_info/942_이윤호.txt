@@ -1,0 +1,6 @@
+name : 이윤호
+age : 87
+e-mail : wkzxi339@bhban.com
+division : z4y
+telephone : 010-3187-7931
+sex : male

@@ -1,0 +1,6 @@
+name : 조윤우
+age : 18
+e-mail : a5i4b8z6@bhban.com
+division : 1zb
+telephone : 010-9118-5391
+sex : male

@@ -1,0 +1,6 @@
+name : 김현우
+age : 92
+e-mail : vnb4ninz@bhban.com
+division : 2ic
+telephone : 010-1392-3713
+sex : male

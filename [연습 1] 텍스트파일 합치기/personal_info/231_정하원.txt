@@ -1,0 +1,6 @@
+name : 정하원
+age : 62
+e-mail : rn1ymeym@bhban.com
+division : k1b
+telephone : 010-8862-8988
+sex : male

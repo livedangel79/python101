@@ -1,0 +1,6 @@
+name : 김윤아
+age : 76
+e-mail : 50i33it0@bhban.com
+division : 90z
+telephone : 010-7876-5978
+sex : male

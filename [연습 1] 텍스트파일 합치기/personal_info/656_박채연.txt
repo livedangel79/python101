@@ -1,0 +1,6 @@
+name : 박채연
+age : 07
+e-mail : p2y76nbp@bhban.com
+division : z24
+telephone : 010-6407-0964
+sex : male

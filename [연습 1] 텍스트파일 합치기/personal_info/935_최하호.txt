@@ -1,0 +1,6 @@
+name : 최하호
+age : 13
+e-mail : r25rzusq@bhban.com
+division : z6n
+telephone : 010-1913-9119
+sex : female

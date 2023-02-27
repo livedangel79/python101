@@ -1,0 +1,6 @@
+name : 조윤진
+age : 91
+e-mail : td8migx7@bhban.com
+division : nbv
+telephone : 010-1291-6412
+sex : male

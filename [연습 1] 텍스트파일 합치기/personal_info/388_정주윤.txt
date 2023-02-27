@@ -1,0 +1,6 @@
+name : 정주윤
+age : 12
+e-mail : a6x03taq@bhban.com
+division : azz
+telephone : 010-2912-3429
+sex : male

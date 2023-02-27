@@ -1,0 +1,6 @@
+name : 윤윤연
+age : 85
+e-mail : ri9zwcqy@bhban.com
+division : 731
+telephone : 010-2885-4828
+sex : female

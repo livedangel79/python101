@@ -1,0 +1,6 @@
+name : 박현연
+age : 25
+e-mail : 6n3fufim@bhban.com
+division : te8
+telephone : 010-1925-9819
+sex : female

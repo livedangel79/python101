@@ -1,0 +1,6 @@
+name : 임예은
+age : 18
+e-mail : lv8e34pi@bhban.com
+division : kca
+telephone : 010-1318-7613
+sex : female

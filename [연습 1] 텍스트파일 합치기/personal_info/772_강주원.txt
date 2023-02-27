@@ -1,0 +1,6 @@
+name : 강주원
+age : 77
+e-mail : m9avoib4@bhban.com
+division : yqo
+telephone : 010-7877-4178
+sex : male

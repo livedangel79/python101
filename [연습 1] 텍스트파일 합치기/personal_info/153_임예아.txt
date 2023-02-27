@@ -1,0 +1,6 @@
+name : 임예아
+age : 16
+e-mail : 9t8a5xo2@bhban.com
+division : 452
+telephone : 010-6816-6668
+sex : male

@@ -1,0 +1,6 @@
+name : 박민후
+age : 18
+e-mail : qhdrw5vz@bhban.com
+division : tbo
+telephone : 010-1318-7613
+sex : female

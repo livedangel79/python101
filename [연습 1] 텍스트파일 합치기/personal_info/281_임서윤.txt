@@ -1,0 +1,6 @@
+name : 임서윤
+age : 12
+e-mail : solnyri8@bhban.com
+division : azl
+telephone : 010-2812-0428
+sex : male

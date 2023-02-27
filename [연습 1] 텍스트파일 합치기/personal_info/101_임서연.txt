@@ -1,0 +1,6 @@
+name : 임서연
+age : 79
+e-mail : tsvelhc5@bhban.com
+division : bc8
+telephone : 010-6945-5069
+sex : female

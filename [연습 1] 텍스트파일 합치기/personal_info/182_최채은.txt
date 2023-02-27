@@ -1,0 +1,6 @@
+name : 최채은
+age : 37
+e-mail : 3ddll24f@bhban.com
+division : 2i5
+telephone : 010-5637-7556
+sex : male

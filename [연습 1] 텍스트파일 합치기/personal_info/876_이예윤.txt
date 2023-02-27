@@ -1,0 +1,6 @@
+name : 이예윤
+age : 17
+e-mail : otrr3uq5@bhban.com
+division : adk
+telephone : 010-1217-7512
+sex : female

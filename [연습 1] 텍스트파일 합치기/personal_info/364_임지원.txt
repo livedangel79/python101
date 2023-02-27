@@ -1,0 +1,6 @@
+name : 임지원
+age : 28
+e-mail : rqsp35zv@bhban.com
+division : 24p
+telephone : 010-.628-86.6
+sex : male

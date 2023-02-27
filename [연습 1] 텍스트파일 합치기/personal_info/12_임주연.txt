@@ -1,0 +1,6 @@
+name : 임주연
+age : 26
+e-mail : hkzxy9we@bhban.com
+division : zgf
+telephone : 010-3526-2035
+sex : male

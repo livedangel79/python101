@@ -1,0 +1,6 @@
+name : 최윤준
+age : 54
+e-mail : 4v02foau@bhban.com
+division : 1kp
+telephone : 010-2754-5427
+sex : male

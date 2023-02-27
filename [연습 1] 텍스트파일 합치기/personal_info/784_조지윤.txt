@@ -1,0 +1,6 @@
+name : 조지윤
+age : 42
+e-mail : qbeuvi4p@bhban.com
+division : p3z
+telephone : 010-7742-4677
+sex : female

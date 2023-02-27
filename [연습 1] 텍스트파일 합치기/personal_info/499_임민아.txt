@@ -1,0 +1,6 @@
+name : 임민아
+age : 77
+e-mail : 3u17zwzg@bhban.com
+division : gky
+telephone : 010-8077-6580
+sex : male

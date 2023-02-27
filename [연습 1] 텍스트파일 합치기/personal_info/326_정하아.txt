@@ -1,0 +1,6 @@
+name : 정하아
+age : 09
+e-mail : q0zthl5m@bhban.com
+division : 8gv
+telephone : 010-6809-6168
+sex : male

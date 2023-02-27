@@ -1,0 +1,6 @@
+name : 강서후
+age : 34
+e-mail : utehgscm@bhban.com
+division : rgl
+telephone : 010-2934-3329
+sex : male

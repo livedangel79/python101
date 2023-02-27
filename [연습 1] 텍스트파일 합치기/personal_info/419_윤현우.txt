@@ -1,0 +1,6 @@
+name : 윤현우
+age : 85
+e-mail : mhvocfie@bhban.com
+division : igd
+telephone : 010-3285-6432
+sex : female

@@ -1,0 +1,6 @@
+name : 정하준
+age : 22
+e-mail : iade7rpl@bhban.com
+division : heo
+telephone : 010-5722-7257
+sex : female

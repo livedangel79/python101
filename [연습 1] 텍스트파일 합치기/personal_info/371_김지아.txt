@@ -1,0 +1,6 @@
+name : 김지아
+age : 15
+e-mail : auwzdb25@bhban.com
+division : wh6
+telephone : 010-3015-3030
+sex : male

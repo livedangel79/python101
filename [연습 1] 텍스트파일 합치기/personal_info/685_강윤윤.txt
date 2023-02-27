@@ -1,0 +1,6 @@
+name : 강윤윤
+age : 92
+e-mail : i73g0zou@bhban.com
+division : gcw
+telephone : 010-6392-1763
+sex : male

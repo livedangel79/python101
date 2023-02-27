@@ -1,0 +1,6 @@
+name : 임윤진
+age : 69
+e-mail : chz2fb8w@bhban.com
+division : 7cx
+telephone : 010-7869-6978
+sex : male

@@ -1,0 +1,6 @@
+name : 강하서
+age : 82
+e-mail : raho5yla@bhban.com
+division : vg3
+telephone : 010-8882-6888
+sex : female

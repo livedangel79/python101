@@ -1,0 +1,6 @@
+name : 정하윤
+age : 22
+e-mail : y8etyll4@bhban.com
+division : b8o
+telephone : 010-2922-0229
+sex : female

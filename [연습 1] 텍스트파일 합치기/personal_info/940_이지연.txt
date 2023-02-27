@@ -1,0 +1,6 @@
+name : 이지연
+age : 91
+e-mail : dxmk8yhm@bhban.com
+division : yxy
+telephone : 010-1891-9218
+sex : female

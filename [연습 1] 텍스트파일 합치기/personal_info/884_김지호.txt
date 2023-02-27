@@ -1,0 +1,6 @@
+name : 김지호
+age : 96
+e-mail : gq6xow7m@bhban.com
+division : fva
+telephone : 010-6196-7761
+sex : female

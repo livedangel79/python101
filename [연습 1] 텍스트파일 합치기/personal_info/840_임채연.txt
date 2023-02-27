@@ -1,0 +1,6 @@
+name : 임채연
+age : 07
+e-mail : 4xhq9t2e@bhban.com
+division : n0e
+telephone : 010-5307-7653
+sex : female

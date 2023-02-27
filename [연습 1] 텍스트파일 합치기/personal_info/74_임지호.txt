@@ -1,0 +1,6 @@
+name : 임지호
+age : 27
+e-mail : pz0vh0iz@bhban.com
+division : uw8
+telephone : 010-1127-4111
+sex : male

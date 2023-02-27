@@ -1,0 +1,6 @@
+name : 박채원
+age : 97
+e-mail : l1x3pqz5@bhban.com
+division : xnk
+telephone : 010-2097-.620
+sex : male

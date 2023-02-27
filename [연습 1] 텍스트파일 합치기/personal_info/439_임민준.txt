@@ -1,0 +1,6 @@
+name : 임민준
+age : 75
+e-mail : vy2hhpqi@bhban.com
+division : 7d4
+telephone : 010-2875-4928
+sex : male

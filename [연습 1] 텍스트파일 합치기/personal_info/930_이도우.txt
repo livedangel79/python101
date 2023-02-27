@@ -1,0 +1,6 @@
+name : 이도우
+age : 55
+e-mail : xneyognz@bhban.com
+division : 3pd
+telephone : 010-1955-8919
+sex : male

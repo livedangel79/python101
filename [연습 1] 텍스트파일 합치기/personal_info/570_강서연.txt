@@ -1,0 +1,6 @@
+name : 강서연
+age : 03
+e-mail : 5z7osp5u@bhban.com
+division : lu4
+telephone : 010-9803-8598
+sex : male

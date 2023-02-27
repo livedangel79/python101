@@ -1,0 +1,6 @@
+name : 최예원
+age : 58
+e-mail : oppu99u2@bhban.com
+division : c2c
+telephone : 010-6958-6169
+sex : male

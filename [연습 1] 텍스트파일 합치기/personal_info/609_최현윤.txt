@@ -1,0 +1,6 @@
+name : 최현윤
+age : 27
+e-mail : 92tf8gbi@bhban.com
+division : 0ez
+telephone : 010-8627-9686
+sex : female

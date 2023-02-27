@@ -1,0 +1,6 @@
+name : 강서진
+age : 04
+e-mail : 5b180dtb@bhban.com
+division : q9b
+telephone : 010-6804-6668
+sex : female

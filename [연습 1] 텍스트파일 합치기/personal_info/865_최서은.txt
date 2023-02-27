@@ -1,0 +1,6 @@
+name : 최서은
+age : 29
+e-mail : 7vxlzt38@bhban.com
+division : 61m
+telephone : 010-2129-7721
+sex : male

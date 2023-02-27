@@ -1,0 +1,6 @@
+name : 이예준
+age : 08
+e-mail : sb9y8z45@bhban.com
+division : vlq
+telephone : 010-1008-8610
+sex : male

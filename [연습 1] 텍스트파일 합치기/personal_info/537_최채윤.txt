@@ -1,0 +1,6 @@
+name : 최채윤
+age : 22
+e-mail : gzhakex8@bhban.com
+division : q9m
+telephone : 010-1522-7715
+sex : female

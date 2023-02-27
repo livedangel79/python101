@@ -1,0 +1,6 @@
+name : 강지은
+age : 28
+e-mail : rlauq8cx@bhban.com
+division : 7xg
+telephone : 010-7828-4378
+sex : male

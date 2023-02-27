@@ -1,0 +1,6 @@
+name : 강예윤
+age : 12
+e-mail : fz1i50x3@bhban.com
+division : 0te
+telephone : 010-2812-0428
+sex : male

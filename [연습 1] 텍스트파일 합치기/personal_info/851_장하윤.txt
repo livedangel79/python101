@@ -1,0 +1,6 @@
+name : 장하윤
+age : 18
+e-mail : i3wrtfyy@bhban.com
+division : t3g
+telephone : 010-6718-6867
+sex : female

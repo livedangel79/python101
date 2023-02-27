@@ -1,0 +1,6 @@
+name : 박지아
+age : 42
+e-mail : 7rbts6st@bhban.com
+division : 4sa
+telephone : 010-3442-2434
+sex : male

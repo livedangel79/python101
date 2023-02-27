@@ -1,0 +1,6 @@
+name : 윤민아
+age : 13
+e-mail : 69voy3zp@bhban.com
+division : qg3
+telephone : 010-1913-9119
+sex : male

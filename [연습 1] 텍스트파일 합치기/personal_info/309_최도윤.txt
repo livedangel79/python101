@@ -1,0 +1,6 @@
+name : 최도윤
+age : 24
+e-mail : 8er7yhw8@bhban.com
+division : 84n
+telephone : 010-8224-1182
+sex : female

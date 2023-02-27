@@ -1,0 +1,6 @@
+name : 윤지진
+age : 12
+e-mail : xcb2bma4@bhban.com
+division : sn2
+telephone : 010-7912-0679
+sex : female

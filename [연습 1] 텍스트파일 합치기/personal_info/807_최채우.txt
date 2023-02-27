@@ -1,0 +1,6 @@
+name : 최채우
+age : 66
+e-mail : q0p8ooyq@bhban.com
+division : hyn
+telephone : 010-0666-5506
+sex : male

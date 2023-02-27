@@ -1,0 +1,6 @@
+name : 윤윤윤
+age : 96
+e-mail : 6tc1c426@bhban.com
+division : l1b
+telephone : 010-2796-5227
+sex : male

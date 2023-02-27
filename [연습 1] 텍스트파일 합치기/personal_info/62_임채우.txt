@@ -1,0 +1,6 @@
+name : 임채우
+age : 77
+e-mail : dy650dxq@bhban.com
+division : s29
+telephone : 010-9077-3690
+sex : female

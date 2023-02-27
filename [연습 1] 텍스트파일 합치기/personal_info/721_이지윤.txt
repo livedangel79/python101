@@ -1,0 +1,6 @@
+name : 이지윤
+age : 03
+e-mail : g4bzz9u4@bhban.com
+division : hux
+telephone : 010-7203-2772
+sex : female

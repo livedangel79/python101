@@ -1,0 +1,6 @@
+name : 정채우
+age : 96
+e-mail : guyzn30b@bhban.com
+division : d5r
+telephone : 010-2296-6322
+sex : female

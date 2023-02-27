@@ -1,0 +1,6 @@
+name : 조지연
+age : 96
+e-mail : pf2oxb7g@bhban.com
+division : wha
+telephone : 010-7196-2371
+sex : female

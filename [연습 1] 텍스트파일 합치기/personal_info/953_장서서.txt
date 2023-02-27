@@ -1,0 +1,6 @@
+name : 장서서
+age : 22
+e-mail : io08x46v@bhban.com
+division : 2is
+telephone : 010-1822-9518
+sex : male

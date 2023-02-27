@@ -1,0 +1,6 @@
+name : 강지원
+age : 73
+e-mail : xzf9uu7q@bhban.com
+division : d7i
+telephone : 010-8773-9387
+sex : male

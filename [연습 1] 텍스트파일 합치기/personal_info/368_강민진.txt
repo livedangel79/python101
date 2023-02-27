@@ -1,0 +1,6 @@
+name : 강민진
+age : 06
+e-mail : n0hsz8rz@bhban.com
+division : 00x
+telephone : 010-9306-6293
+sex : female

@@ -1,0 +1,6 @@
+name : 이하준
+age : 89
+e-mail : vnusm04e@bhban.com
+division : gmn
+telephone : 010-2989-9929
+sex : male

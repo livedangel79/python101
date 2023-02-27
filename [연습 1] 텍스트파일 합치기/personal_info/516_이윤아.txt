@@ -1,0 +1,6 @@
+name : 이윤아
+age : 68
+e-mail : n2e2vhwc@bhban.com
+division : azg
+telephone : 010-1168-6711
+sex : male

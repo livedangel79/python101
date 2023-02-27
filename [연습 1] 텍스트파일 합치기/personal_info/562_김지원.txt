@@ -1,0 +1,6 @@
+name : 김지원
+age : 85
+e-mail : ik4e9de0@bhban.com
+division : mp1
+telephone : 010-3985-6839
+sex : male

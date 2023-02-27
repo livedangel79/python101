@@ -1,0 +1,6 @@
+name : 조예윤
+age : 24
+e-mail : artfpeax@bhban.com
+division : 11s
+telephone : 010-8224-1182
+sex : female

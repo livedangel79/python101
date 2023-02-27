@@ -1,0 +1,6 @@
+name : 정민서
+age : 01
+e-mail : 12vot882@bhban.com
+division : 9q1
+telephone : 010-1001-4610
+sex : male

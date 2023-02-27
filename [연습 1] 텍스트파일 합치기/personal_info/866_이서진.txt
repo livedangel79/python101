@@ -1,0 +1,6 @@
+name : 이서진
+age : 29
+e-mail : leiyhed0@bhban.com
+division : zzh
+telephone : 010-2129-7721
+sex : female

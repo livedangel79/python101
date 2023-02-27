@@ -1,0 +1,6 @@
+name : 장민윤
+age : 44
+e-mail : 1s7o6qtx@bhban.com
+division : fl8
+telephone : 010-7144-2571
+sex : male

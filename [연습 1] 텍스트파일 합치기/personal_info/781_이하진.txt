@@ -1,0 +1,6 @@
+name : 이하진
+age : 74
+e-mail : nd6o6nq7@bhban.com
+division : n63
+telephone : 010-7774-4577
+sex : female

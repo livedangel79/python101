@@ -1,0 +1,6 @@
+name : 임지서
+age : 72
+e-mail : nb25d0dm@bhban.com
+division : rk3
+telephone : 010-7872-8778
+sex : female

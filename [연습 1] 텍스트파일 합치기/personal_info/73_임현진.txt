@@ -1,0 +1,6 @@
+name : 임현진
+age : 27
+e-mail : sr5ezwrh@bhban.com
+division : l93
+telephone : 010-1127-4111
+sex : female

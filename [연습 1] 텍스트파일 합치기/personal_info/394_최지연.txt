@@ -1,0 +1,6 @@
+name : 최지연
+age : 88
+e-mail : pet7c6tg@bhban.com
+division : lfi
+telephone : 010-5288-6352
+sex : female

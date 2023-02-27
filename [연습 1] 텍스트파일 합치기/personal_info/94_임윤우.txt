@@ -1,0 +1,6 @@
+name : 임윤우
+age : 84
+e-mail : r0bgn39m@bhban.com
+division : mvw
+telephone : 010-4984-4849
+sex : female

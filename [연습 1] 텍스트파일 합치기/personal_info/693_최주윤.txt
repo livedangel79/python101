@@ -1,0 +1,6 @@
+name : 최주윤
+age : 25
+e-mail : b4ck0zss@bhban.com
+division : mg7
+telephone : 010-7325-1973
+sex : male

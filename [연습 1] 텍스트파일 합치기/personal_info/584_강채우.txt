@@ -1,0 +1,6 @@
+name : 강채우
+age : 13
+e-mail : xfvhcqge@bhban.com
+division : kr2
+telephone : 010-8813-8988
+sex : female

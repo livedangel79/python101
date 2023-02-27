@@ -1,0 +1,6 @@
+name : 윤지원
+age : 87
+e-mail : ps021f2m@bhban.com
+division : dkc
+telephone : 010-3187-7931
+sex : male

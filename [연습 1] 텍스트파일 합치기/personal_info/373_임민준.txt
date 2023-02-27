@@ -1,0 +1,6 @@
+name : 임민준
+age : 15
+e-mail : uzg80y3n@bhban.com
+division : cof
+telephone : 010-3015-3030
+sex : female

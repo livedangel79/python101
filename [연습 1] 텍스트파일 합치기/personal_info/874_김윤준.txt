@@ -1,0 +1,6 @@
+name : 김윤준
+age : 46
+e-mail : g1bwx4mf@bhban.com
+division : 712
+telephone : 010-1246-7412
+sex : female

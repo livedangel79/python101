@@ -1,0 +1,6 @@
+name : 김지연
+age : 03
+e-mail : knxnnocr@bhban.com
+division : lo8
+telephone : 010-7903-8379
+sex : female

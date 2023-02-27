@@ -1,0 +1,6 @@
+name : 박민진
+age : 52
+e-mail : aqyk26fn@bhban.com
+division : hy6
+telephone : 010-7852-0778
+sex : male

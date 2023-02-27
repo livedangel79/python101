@@ -1,0 +1,6 @@
+name : 박지준
+age : 17
+e-mail : wp98nuf1@bhban.com
+division : qqh
+telephone : 010-1217-7512
+sex : female

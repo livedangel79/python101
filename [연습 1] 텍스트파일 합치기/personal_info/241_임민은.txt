@@ -1,0 +1,6 @@
+name : 임민은
+age : 86
+e-mail : s95sd5o7@bhban.com
+division : mgw
+telephone : 010-8786-9287
+sex : male

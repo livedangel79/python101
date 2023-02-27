@@ -1,0 +1,6 @@
+name : 조지진
+age : 13
+e-mail : vx3202lm@bhban.com
+division : 3vw
+telephone : 010-0113-5801
+sex : male

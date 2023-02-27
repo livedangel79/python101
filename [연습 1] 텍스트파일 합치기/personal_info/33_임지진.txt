@@ -1,0 +1,6 @@
+name : 임지진
+age : 83
+e-mail : r9z5tif9@bhban.com
+division : w17
+telephone : 010-8783-2787
+sex : male

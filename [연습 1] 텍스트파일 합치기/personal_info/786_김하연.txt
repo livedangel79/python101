@@ -1,0 +1,6 @@
+name : 김하연
+age : 42
+e-mail : 6mf9qq7o@bhban.com
+division : tga
+telephone : 010-7742-4677
+sex : male

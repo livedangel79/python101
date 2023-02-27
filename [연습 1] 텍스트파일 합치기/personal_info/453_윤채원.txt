@@ -1,0 +1,6 @@
+name : 윤채원
+age : 28
+e-mail : wkz0elzm@bhban.com
+division : yse
+telephone : 010-5328-.653
+sex : female

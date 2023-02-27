@@ -1,0 +1,6 @@
+name : 강주후
+age : 96
+e-mail : ss9031zb@bhban.com
+division : qyn
+telephone : 010-5896-0858
+sex : male

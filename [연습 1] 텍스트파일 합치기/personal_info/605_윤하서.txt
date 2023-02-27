@@ -1,0 +1,6 @@
+name : 윤하서
+age : 59
+e-mail : lszauixx@bhban.com
+division : tt1
+telephone : 010-8659-9586
+sex : male

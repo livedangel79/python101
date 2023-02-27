@@ -1,0 +1,6 @@
+name : 강하서
+age : 52
+e-mail : egt506h2@bhban.com
+division : cnt
+telephone : 010-7852-0778
+sex : female

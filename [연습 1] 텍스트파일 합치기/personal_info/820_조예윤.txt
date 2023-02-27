@@ -1,0 +1,6 @@
+name : 조예윤
+age : 21
+e-mail : 84ymqqec@bhban.com
+division : zez
+telephone : 010-9321-7593
+sex : female

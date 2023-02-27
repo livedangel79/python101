@@ -1,0 +1,6 @@
+name : 강채연
+age : 11
+e-mail : mybhyun8@bhban.com
+division : qlx
+telephone : 010-8011-7980
+sex : female

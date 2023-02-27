@@ -1,0 +1,6 @@
+name : 정윤아
+age : 73
+e-mail : zk3544to@bhban.com
+division : gqh
+telephone : 010-6873-5268
+sex : male

@@ -1,0 +1,6 @@
+name : 강지원
+age : 38
+e-mail : lagie47t@bhban.com
+division : 1c6
+telephone : 010-8038-7880
+sex : female

@@ -1,0 +1,6 @@
+name : 박채진
+age : 67
+e-mail : nw8in9m0@bhban.com
+division : 1np
+telephone : 010-8167-1381
+sex : female

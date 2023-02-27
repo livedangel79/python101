@@ -1,0 +1,6 @@
+name : 강민아
+age : 24
+e-mail : azygpyko@bhban.com
+division : h6c
+telephone : 010-8124-6381
+sex : male

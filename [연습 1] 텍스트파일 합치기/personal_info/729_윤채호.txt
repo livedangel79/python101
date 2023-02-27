@@ -1,0 +1,6 @@
+name : 윤채호
+age : 57
+e-mail : 0zy9n1uf@bhban.com
+division : i2v
+telephone : 010-6457-3064
+sex : male

@@ -1,0 +1,6 @@
+name : 김예연
+age : 74
+e-mail : q5qmrind@bhban.com
+division : aa6
+telephone : 010-0974-8709
+sex : male

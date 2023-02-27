@@ -1,0 +1,6 @@
+name : 이예진
+age : 36
+e-mail : p76w8o98@bhban.com
+division : xxn
+telephone : 010-3536-1935
+sex : female

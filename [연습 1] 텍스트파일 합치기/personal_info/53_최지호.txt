@@ -1,0 +1,6 @@
+name : 최지호
+age : 31
+e-mail : 7rou9908@bhban.com
+division : r0u
+telephone : 010-9131-3391
+sex : male

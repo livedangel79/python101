@@ -1,0 +1,6 @@
+name : 이민연
+age : 08
+e-mail : 0hrmgpoz@bhban.com
+division : 94s
+telephone : 010-0808-5008
+sex : female

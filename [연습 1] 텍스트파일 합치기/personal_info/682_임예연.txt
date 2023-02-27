@@ -1,0 +1,6 @@
+name : 임예연
+age : 39
+e-mail : yyeq3170@bhban.com
+division : 6w9
+telephone : 010-6239-1562
+sex : female

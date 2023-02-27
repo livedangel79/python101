@@ -1,0 +1,6 @@
+name : 박지진
+age : 47
+e-mail : z1rqnkul@bhban.com
+division : hrv
+telephone : 010-1847-9418
+sex : female

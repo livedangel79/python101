@@ -1,0 +1,6 @@
+name : 정채은
+age : 78
+e-mail : gy6k797p@bhban.com
+division : d0s
+telephone : 010-6878-0768
+sex : male

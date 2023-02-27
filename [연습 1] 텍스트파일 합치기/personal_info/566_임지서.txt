@@ -1,0 +1,6 @@
+name : 임지서
+age : 28
+e-mail : l8ztzaa1@bhban.com
+division : t12
+telephone : 010-9828-8498
+sex : female

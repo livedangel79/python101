@@ -1,0 +1,6 @@
+name : 김주준
+age : 24
+e-mail : ip4hdz3u@bhban.com
+division : bu2
+telephone : 010-8224-1182
+sex : female

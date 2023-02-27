@@ -1,0 +1,6 @@
+name : 조채윤
+age : 12
+e-mail : 4dfbihsm@bhban.com
+division : obp
+telephone : 010-2812-0428
+sex : male

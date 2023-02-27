@@ -1,0 +1,6 @@
+name : 조지후
+age : 68
+e-mail : hfkepmi9@bhban.com
+division : ogr
+telephone : 010-1068-8310
+sex : female

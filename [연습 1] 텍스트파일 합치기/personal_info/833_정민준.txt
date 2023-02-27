@@ -1,0 +1,6 @@
+name : 정민준
+age : 19
+e-mail : u2anq3y3@bhban.com
+division : 47m
+telephone : 010-3119-6331
+sex : male

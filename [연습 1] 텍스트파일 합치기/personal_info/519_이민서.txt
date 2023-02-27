@@ -1,0 +1,6 @@
+name : 이민서
+age : 68
+e-mail : olcnapvo@bhban.com
+division : xax
+telephone : 010-1168-6711
+sex : female

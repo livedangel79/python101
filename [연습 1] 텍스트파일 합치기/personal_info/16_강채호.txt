@@ -1,0 +1,6 @@
+name : 강채호
+age : 98
+e-mail : 24kplkrp@bhban.com
+division : 4xs
+telephone : 010-3498-2234
+sex : male

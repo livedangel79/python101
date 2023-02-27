@@ -1,0 +1,6 @@
+name : 이윤서
+age : 71
+e-mail : lhde9nwm@bhban.com
+division : lod
+telephone : 010-7271-2172
+sex : male

@@ -1,0 +1,6 @@
+name : 김지진
+age : 73
+e-mail : 1yh0pc17@bhban.com
+division : oa0
+telephone : 010-8773-9387
+sex : male

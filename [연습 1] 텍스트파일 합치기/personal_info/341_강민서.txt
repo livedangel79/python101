@@ -1,0 +1,6 @@
+name : 강민서
+age : 97
+e-mail : mwcsuubp@bhban.com
+division : 6yo
+telephone : 010-2097-.620
+sex : female

@@ -1,0 +1,6 @@
+name : 이예진
+age : 87
+e-mail : k0p4guw2@bhban.com
+division : w3b
+telephone : 010-4287-7042
+sex : female

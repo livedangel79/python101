@@ -1,0 +1,6 @@
+name : 윤지윤
+age : 13
+e-mail : ep9ttzw6@bhban.com
+division : 995
+telephone : 010-8113-1581
+sex : male

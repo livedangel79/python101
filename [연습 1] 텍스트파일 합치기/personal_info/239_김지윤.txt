@@ -1,0 +1,6 @@
+name : 김지윤
+age : 08
+e-mail : bwbx1dmx@bhban.com
+division : 9h1
+telephone : 010-8808-9188
+sex : female

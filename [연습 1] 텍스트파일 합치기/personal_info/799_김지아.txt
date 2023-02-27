@@ -1,0 +1,6 @@
+name : 김지아
+age : 47
+e-mail : 87381hq2@bhban.com
+division : lzb
+telephone : 010-0747-5207
+sex : female

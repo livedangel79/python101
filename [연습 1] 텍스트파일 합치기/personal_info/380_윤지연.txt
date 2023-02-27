@@ -1,0 +1,6 @@
+name : 윤지연
+age : 96
+e-mail : 73gwtkvq@bhban.com
+division : 686
+telephone : 010-2296-6322
+sex : female

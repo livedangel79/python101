@@ -1,0 +1,6 @@
+name : 김하준
+age : 84
+e-mail : nth9lfxe@bhban.com
+division : b47
+telephone : 010-5684-5656
+sex : female

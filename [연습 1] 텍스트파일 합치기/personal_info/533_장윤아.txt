@@ -1,0 +1,6 @@
+name : 장윤아
+age : 59
+e-mail : fuzie2h6@bhban.com
+division : b7z
+telephone : 010-1559-7515
+sex : female

@@ -1,0 +1,6 @@
+name : 박지진
+age : 21
+e-mail : zt3vp2n8@bhban.com
+division : btc
+telephone : 010-9321-7593
+sex : male

@@ -1,0 +1,6 @@
+name : 최지은
+age : 24
+e-mail : u75b4hr2@bhban.com
+division : 45a
+telephone : 010-9624-2396
+sex : female

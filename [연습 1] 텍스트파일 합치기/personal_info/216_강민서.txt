@@ -1,0 +1,6 @@
+name : 강민서
+age : 16
+e-mail : 2pr1n56p@bhban.com
+division : cz7
+telephone : 010-1016-8510
+sex : male

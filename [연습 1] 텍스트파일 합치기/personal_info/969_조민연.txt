@@ -1,0 +1,6 @@
+name : 조민연
+age : 19
+e-mail : vie4e1ia@bhban.com
+division : tx3
+telephone : 010-0019-.800
+sex : female

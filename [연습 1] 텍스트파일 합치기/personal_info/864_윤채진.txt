@@ -1,0 +1,6 @@
+name : 윤채진
+age : 29
+e-mail : 97if4ou3@bhban.com
+division : cmp
+telephone : 010-2129-7721
+sex : male

@@ -1,0 +1,6 @@
+name : 김윤아
+age : 56
+e-mail : pv10pscz@bhban.com
+division : 9ff
+telephone : 010-9756-1897
+sex : female

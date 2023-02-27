@@ -1,0 +1,6 @@
+name : 장민호
+age : 13
+e-mail : 27261gdr@bhban.com
+division : x5p
+telephone : 010-7913-0779
+sex : female

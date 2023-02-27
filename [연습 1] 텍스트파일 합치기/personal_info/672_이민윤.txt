@@ -1,0 +1,6 @@
+name : 이민윤
+age : 92
+e-mail : 7vyzn05k@bhban.com
+division : 48p
+telephone : 010-6292-1362
+sex : male

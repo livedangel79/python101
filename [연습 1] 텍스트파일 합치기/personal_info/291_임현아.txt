@@ -1,0 +1,6 @@
+name : 임현아
+age : 48
+e-mail : ck3o58xt@bhban.com
+division : aoz
+telephone : 010-7848-0678
+sex : male

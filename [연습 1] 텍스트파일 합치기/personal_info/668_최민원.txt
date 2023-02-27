@@ -1,0 +1,6 @@
+name : 최민원
+age : 27
+e-mail : v8zizyil@bhban.com
+division : edr
+telephone : 010-6327-1263
+sex : female

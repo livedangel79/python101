@@ -1,0 +1,6 @@
+name : 박지우
+age : 08
+e-mail : hb5hy605@bhban.com
+division : wv7
+telephone : 010-1008-8610
+sex : female

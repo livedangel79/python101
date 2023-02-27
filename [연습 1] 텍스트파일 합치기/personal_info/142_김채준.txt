@@ -1,0 +1,6 @@
+name : 김채준
+age : 95
+e-mail : o4dzvscr@bhban.com
+division : gm6
+telephone : 010-6895-6368
+sex : male

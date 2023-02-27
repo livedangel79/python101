@@ -1,0 +1,6 @@
+name : 최윤윤
+age : 42
+e-mail : mu2bt86a@bhban.com
+division : y6k
+telephone : 010-3442-2434
+sex : male

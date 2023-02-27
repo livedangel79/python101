@@ -1,0 +1,6 @@
+name : 정서진
+age : 27
+e-mail : zlct4lku@bhban.com
+division : fzn
+telephone : 010-8627-9686
+sex : male

@@ -1,0 +1,6 @@
+name : 윤윤연
+age : 34
+e-mail : p9k0sti3@bhban.com
+division : zmr
+telephone : 010-2912-3429
+sex : female

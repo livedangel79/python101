@@ -1,0 +1,6 @@
+name : 정지윤
+age : 25
+e-mail : wl45tsz3@bhban.com
+division : 0x6
+telephone : 010-6925-4769
+sex : male

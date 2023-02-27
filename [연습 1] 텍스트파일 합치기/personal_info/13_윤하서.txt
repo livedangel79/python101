@@ -1,0 +1,6 @@
+name : 윤하서
+age : 35
+e-mail : udu3o96h@bhban.com
+division : 7e7
+telephone : 010-2135-.521
+sex : female

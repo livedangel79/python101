@@ -1,0 +1,6 @@
+name : 강지윤
+age : 84
+e-mail : kxbwr1oz@bhban.com
+division : btc
+telephone : 010-5684-5656
+sex : male

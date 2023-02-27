@@ -1,0 +1,6 @@
+name : 윤채윤
+age : 82
+e-mail : 138oz4t4@bhban.com
+division : 9wu
+telephone : 010-8882-6888
+sex : male

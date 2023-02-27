@@ -1,0 +1,6 @@
+name : 임지후
+age : 41
+e-mail : igpeex5i@bhban.com
+division : 6wa
+telephone : 010-8241-5982
+sex : male

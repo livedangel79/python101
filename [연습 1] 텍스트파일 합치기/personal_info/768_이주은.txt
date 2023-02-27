@@ -1,0 +1,6 @@
+name : 이주은
+age : 04
+e-mail : rsd3gnff@bhban.com
+division : 9pz
+telephone : 010-7904-4079
+sex : male

@@ -1,0 +1,6 @@
+name : 윤지연
+age : 07
+e-mail : kozegcb8@bhban.com
+division : 1xf
+telephone : 010-6407-0964
+sex : male

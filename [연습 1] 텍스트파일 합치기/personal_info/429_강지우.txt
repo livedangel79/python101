@@ -1,0 +1,6 @@
+name : 강지우
+age : 94
+e-mail : zzsa0w23@bhban.com
+division : 3bi
+telephone : 010-2794-4527
+sex : female

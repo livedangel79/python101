@@ -1,0 +1,6 @@
+name : 장주연
+age : 28
+e-mail : e7wd4ceo@bhban.com
+division : po3
+telephone : 010-3728-9737
+sex : female

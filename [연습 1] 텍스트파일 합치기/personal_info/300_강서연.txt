@@ -1,0 +1,6 @@
+name : 강서연
+age : 73
+e-mail : 4w9a0azf@bhban.com
+division : wx7
+telephone : 010-8273-0982
+sex : female

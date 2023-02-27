@@ -1,0 +1,6 @@
+name : 장현우
+age : 28
+e-mail : kleyqi7d@bhban.com
+division : 68u
+telephone : 010-0728-7807
+sex : female

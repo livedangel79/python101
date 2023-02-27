@@ -1,0 +1,6 @@
+name : 윤지원
+age : 89
+e-mail : kszbuebt@bhban.com
+division : 87s
+telephone : 010-8889-5888
+sex : female

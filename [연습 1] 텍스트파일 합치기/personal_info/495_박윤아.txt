@@ -1,0 +1,6 @@
+name : 박윤아
+age : 95
+e-mail : 03z8kzig@bhban.com
+division : 9gt
+telephone : 010-8095-6480
+sex : male

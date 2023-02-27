@@ -1,0 +1,6 @@
+name : 김지진
+age : 28
+e-mail : vgbqcqbh@bhban.com
+division : 7u0
+telephone : 010-7828-4378
+sex : female

@@ -1,0 +1,6 @@
+name : 김현진
+age : 02
+e-mail : hrbqi8wz@bhban.com
+division : g64
+telephone : 010-8202-6082
+sex : male

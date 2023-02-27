@@ -1,0 +1,6 @@
+name : 장현진
+age : 24
+e-mail : sze2o9yo@bhban.com
+division : ps7
+telephone : 010-1124-8111
+sex : male

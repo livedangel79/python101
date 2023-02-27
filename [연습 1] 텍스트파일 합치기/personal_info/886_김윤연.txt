@@ -1,0 +1,6 @@
+name : 김윤연
+age : 96
+e-mail : c5kmhvo0@bhban.com
+division : r8s
+telephone : 010-6196-7761
+sex : female

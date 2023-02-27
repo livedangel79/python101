@@ -1,0 +1,6 @@
+name : 강채준
+age : 97
+e-mail : 3l84sdx1@bhban.com
+division : a7u
+telephone : 010-8197-1281
+sex : female

@@ -1,0 +1,6 @@
+name : 김채서
+age : 46
+e-mail : 14aikmu3@bhban.com
+division : glg
+telephone : 010-3646-2536
+sex : male

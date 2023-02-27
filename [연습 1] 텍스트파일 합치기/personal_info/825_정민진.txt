@@ -1,0 +1,6 @@
+name : 정민진
+age : 18
+e-mail : gqcdgi9r@bhban.com
+division : z4u
+telephone : 010-1318-7613
+sex : male

@@ -1,0 +1,6 @@
+name : 최예진
+age : 47
+e-mail : 2acxh6p6@bhban.com
+division : xw0
+telephone : 010-2947-9929
+sex : female

@@ -1,0 +1,6 @@
+name : 정서연
+age : 54
+e-mail : tszss2li@bhban.com
+division : dtz
+telephone : 010-1154-4011
+sex : female

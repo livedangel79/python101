@@ -1,0 +1,6 @@
+name : 김지아
+age : 07
+e-mail : ramt7nvb@bhban.com
+division : u7p
+telephone : 010-5307-7653
+sex : female

@@ -1,0 +1,6 @@
+name : 임채진
+age : 78
+e-mail : 6edc656l@bhban.com
+division : cm1
+telephone : 010-6378-1063
+sex : female

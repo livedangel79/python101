@@ -1,0 +1,6 @@
+name : 최주호
+age : 47
+e-mail : bev2fz6a@bhban.com
+division : f01
+telephone : 010-1847-9418
+sex : female

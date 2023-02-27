@@ -1,0 +1,6 @@
+name : 강민원
+age : 78
+e-mail : a1ralhui@bhban.com
+division : i32
+telephone : 010-5778-.657
+sex : male

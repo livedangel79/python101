@@ -1,0 +1,6 @@
+name : 김하진
+age : 28
+e-mail : m8xh8q4l@bhban.com
+division : qm7
+telephone : 010-5328-.653
+sex : female

@@ -1,0 +1,6 @@
+name : 최지호
+age : 32
+e-mail : 9h7nwazo@bhban.com
+division : kzk
+telephone : 010-6432-3164
+sex : female

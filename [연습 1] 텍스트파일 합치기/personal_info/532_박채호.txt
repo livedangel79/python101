@@ -1,0 +1,6 @@
+name : 박채호
+age : 59
+e-mail : 0zhzf38l@bhban.com
+division : ns8
+telephone : 010-1559-7515
+sex : male

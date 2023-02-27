@@ -1,0 +1,6 @@
+name : 임예호
+age : 12
+e-mail : f37riepf@bhban.com
+division : qo8
+telephone : 010-2812-0428
+sex : male

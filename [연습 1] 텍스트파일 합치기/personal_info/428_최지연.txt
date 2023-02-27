@@ -1,0 +1,6 @@
+name : 최지연
+age : 94
+e-mail : l14u7s3w@bhban.com
+division : kzm
+telephone : 010-2794-4527
+sex : male

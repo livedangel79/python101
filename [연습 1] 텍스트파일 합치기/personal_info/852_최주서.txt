@@ -1,0 +1,6 @@
+name : 최주서
+age : 18
+e-mail : gw5bzv5x@bhban.com
+division : m2r
+telephone : 010-6718-6867
+sex : female

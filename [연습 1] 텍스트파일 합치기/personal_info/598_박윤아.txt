@@ -1,0 +1,6 @@
+name : 박윤아
+age : 15
+e-mail : 03o0t25x@bhban.com
+division : obi
+telephone : 010-8715-9387
+sex : female

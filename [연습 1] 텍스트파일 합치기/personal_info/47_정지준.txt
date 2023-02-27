@@ -1,0 +1,6 @@
+name : 정지준
+age : 18
+e-mail : hzzqc44n@bhban.com
+division : ga1
+telephone : 010-2918-5329
+sex : male

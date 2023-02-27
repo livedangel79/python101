@@ -1,0 +1,6 @@
+name : 임채준
+age : 44
+e-mail : ue71bteu@bhban.com
+division : eyr
+telephone : 010-2844-0528
+sex : male

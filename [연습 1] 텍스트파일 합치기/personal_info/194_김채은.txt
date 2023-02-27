@@ -1,0 +1,6 @@
+name : 김채은
+age : 19
+e-mail : pwws90kv@bhban.com
+division : 66o
+telephone : 010-9119-5791
+sex : female

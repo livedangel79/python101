@@ -1,0 +1,6 @@
+name : 김윤진
+age : 28
+e-mail : exc580k7@bhban.com
+division : wq6
+telephone : 010-8728-6687
+sex : male

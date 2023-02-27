@@ -1,0 +1,6 @@
+name : 박서아
+age : 17
+e-mail : x44d5o2t@bhban.com
+division : 89v
+telephone : 010-2917-0029
+sex : male

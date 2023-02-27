@@ -1,0 +1,6 @@
+name : 김지윤
+age : 82
+e-mail : 7ez97g63@bhban.com
+division : zfk
+telephone : 010-3182-8031
+sex : male

@@ -1,0 +1,6 @@
+name : 이채후
+age : 28
+e-mail : 70lix0g5@bhban.com
+division : 60w
+telephone : 010-9828-8498
+sex : female

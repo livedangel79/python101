@@ -1,0 +1,6 @@
+name : 강주준
+age : 28
+e-mail : 8awix1b1@bhban.com
+division : 1w3
+telephone : 010-.628-86.6
+sex : male

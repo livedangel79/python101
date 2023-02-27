@@ -1,0 +1,6 @@
+name : 이지은
+age : 73
+e-mail : a9u7pnz9@bhban.com
+division : z9q
+telephone : 010-6873-5268
+sex : male

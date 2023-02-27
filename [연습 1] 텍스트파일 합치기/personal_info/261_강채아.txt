@@ -1,0 +1,6 @@
+name : 강채아
+age : 76
+e-mail : 3t0znol1@bhban.com
+division : 5ta
+telephone : 010-7876-5978
+sex : female
